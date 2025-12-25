@@ -28,8 +28,8 @@
 * [AERO60001 - Aerodynamics 3](Year%203/AERO60001%20-%20Aerodynamics%203.pdf) - 空气动力学 3 <br>
 * [AERO60007 - Control Systems](Year%203/AERO60007%20-%20Control%20Systems.pdf) - 控制系统 <br>
 * [AERO60008 - Structures 3](Year%203/AERO60008%20-%20Structures%203.pdf) - 结构学 3 <br>
-* [AERO70015 - Mathematics 3](Year%203/AERO70015%20-%20Mathematics%203.pdf) (elective) - 数学 3 (选修) <br>
-* [AERO70038 - Introduction to Vertical Flight](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf) (elective) - 垂直飞行概论 (选修) <br>
+* [AERO70015 - Mathematics 3](Year%203/AERO70015%20-%20Mathematics%203.pdf) *(elective)* - 数学 3 *(选修)* <br>
+* [AERO70038 - Introduction to Vertical Flight](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf) *(elective)* - 垂直飞行概论 *(选修)* <br>
 
 ### Year 4 - 研一 (2025-2026)  
 will update before August 2026 <br> 
