@@ -17,9 +17,9 @@
   *  Vector Calculus - 向量微积分
   *  Partial Differential Equation (PDE) - 偏微分方程
   *  Probability - 概率学
-  *  Signals and Systems - 信号与系统
+  *  Signals and Systems (Part 1) - 信号与系统 (第一部分)
 * <ins>AERO50007</ins> - Mechatronics - 机电一体化
-  *  Signals and Systems - 信号与系统
+  *  Signals and Systems (Part 2) - 信号与系统 (第二部分)
   *  Circuit - 电路
 * <ins>AERO50008</ins> - Structures 2 - 结构学 2 <br>
 * <ins>AERO50009</ins> - Propulsion and Turbomachinery - 推进系统与涡轮机 <br>
