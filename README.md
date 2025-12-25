@@ -3,11 +3,11 @@
 *Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Notes** in English <br> 
 *帝国理工 **航空工程 (本硕连读)*** 英文**学习笔记** <br>
 
-### Year 1 - 大一 (2022-2023)  
-* <ins>AERO40001</ins> - Aerodyanmics 1 - 空气动力学 1 <br>  
-* <ins>AERO40006</ins> - Mathematics 1 - 数学 1 <br>
-* <ins>AERO40008</ins> - Structures 1 - 结构学 1 <br> 
-* <ins>AERO40009</ins> - Thermodynamics and Heat Transfer - 热力学与热传导 <br> 
+### [Year 1 - 大一](docs/Year%201/) (2022-2023)
+* <ins>AERO40001</ins> - [Aerodyanmics 1](Year%201/AERO40001%20-%20Aerodynamics%201.pdf) - 空气动力学 1 <br>  
+* <ins>AERO40006</ins> - [Mathematics 1](Year%201/AERO40006%20-%20Mathematics%201.pdf) - 数学 1 <br>
+* <ins>AERO40008</ins> - [Structures 1](Year%201/AERO40008%20-%20Structures%201.pdf) - 结构学 1 <br> 
+* <ins>AERO40009</ins> - [Thermodynamics and Heat Transfer](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer.pdf) - 热力学与热传导 <br> 
 
 ### Year 2 - 大二 (2023-2024)  
 * <ins>AERO50001</ins> - Aerodyanmics 2 - 空气动力学 2 <br>  
