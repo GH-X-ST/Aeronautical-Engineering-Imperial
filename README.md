@@ -1,3 +1,4 @@
+![Cover](Cover.jpg)
 *Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Notes** in English <br>
 *帝国理工 **航空工程 (本硕连读)*** 英文**学习笔记** <br>
 
