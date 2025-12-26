@@ -56,7 +56,7 @@ will update before August 2026 <br>
 * <ins>*AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2*</ins> <br>
   [W3Schools](https://www.w3schools.com/) provides a detailed and systematic C++ tutorial <br>
   [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的C++教程
-* <ins>*AERO50010 - Engineering Practice 2 - 工程实践 2v <br>
+* <ins>*AERO50010 - Engineering Practice 2 - 工程实践 2*</ins> <br>
   Once again, any Large Language Model would be much more helpful than my notes or previously written code <br>
   说真的，任何大语言模型都比我的笔记或写过的代码好使多了
 ### [Year 3 - 大三](Year%203/) (2024-2025)
