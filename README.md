@@ -1,6 +1,6 @@
 # Aeronautical-Engineering-Study-Notes
 
-*Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Notes** in English <br> 
+*Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Notes** in English <br>
 *帝国理工 **航空工程 (本硕连读)*** 英文**学习笔记** <br>
 
 ## [Year 1 - 大一](Year%201/) (2022-2023)
@@ -26,17 +26,18 @@
 
 ## [Year 3 - 大三](Year%203/) (2024-2025)  
 * **[AERO60001 - Aerodynamics 3](Year%203/AERO60001%20-%20Aerodynamics%203.pdf) - 空气动力学 3** <br>
-* **[AERO60007 - Control Systems](Year%203/AERO60007%20-%20Control%20Systems.pdf) - 控制系统** <br>
+* **[AERO60007 - Control Systems](Year%203/AERO60007%20-%20Control%20Systems.pdf) (Part 2) - 控制系统 (第二部分)** <br>
 * **[AERO60008 - Structures 3](Year%203/AERO60008%20-%20Structures%203.pdf) - 结构学 3** <br>
 * **[AERO70015 - Mathematics 3](Year%203/AERO70015%20-%20Mathematics%203.pdf) *(elective)* - 数学 3 *(选修)*** <br>
 * **[AERO70038 - Introduction to Vertical Flight](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf) *(elective)* - 垂直飞行概论 *(选修)*** <br>
 
 ## Year 4 - 研一 (2025-2026)  
 will update before August 2026 <br> 
-将于2026年8月前更新
+将于2026年8月前更新 <br>
+&nbsp;
 
-## Missing Parts - 缺失的内容
-### [Year 1 - 大一](Year%201/) (2022-2023)
+## Modules Covered by External References - 由外部参考资料覆盖的课程
+### [Year 1 - 大一](Year%201/)
 * **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
   Suggested reading awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology <br>
   推荐阅读由代尔夫特理工大学毕业生们整理的[航空航天概论学习笔记](https://www.aerostudents.com/)，非常之牛逼
@@ -52,17 +53,90 @@ will update before August 2026 <br>
 * **AERO40007 - Mechanics 1 - 力学 1** <br>
   Just practise more problems, attend tutorials, and go through past papers <br>
   多刷题就好啦
-### [Year 2 - 大二](Year%202/) (2023-2024)
+### [Year 2 - 大二](Year%202/)
 * **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
   [W3Schools](https://www.w3schools.com/) provides a detailed and systematic C++ tutorial <br>
   [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的C++教程
 * **AERO50010 - Engineering Practice 2 - 工程实践 2** <br>
   Once again, any Large Language Model would be much more helpful than my notes or previously written code <br>
   说真的，任何大语言模型都比我的笔记或屎山代码好使多了
-### [Year 3 - 大三](Year%203/) (2024-2025)
+### [Year 3 - 大三](Year%203/)
 * **AERO60002 - Aerospace Vehicle Design - 飞行器设计** <br>
   If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
   如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
 * **AERO60004 - Aeronautics Group Design Project - 小组设计项目** <br>
   If you select a group design project related to vertical flight, especially helicopters, you can directly refer to the project I worked on [here](https://github.com/GH-X-ST/HALO) <br>
   如果你选择了与垂直飞行（特别是与直升机）有关的小组设计，我恰好参与过一个，看[这儿](https://github.com/GH-X-ST/HALO)
+* **AERO60007 - Control Systems (Part 1) - 控制系统 (第一部分)** <br>
+  You can read *Feedback Systems: An Introduction for Scientists and Engineers*  <br>
+  去读读《反馈系统：多学科视角 *(Feedback Systems: An Introduction for Scientists and Engineers)*》吧 <br>
+&nbsp;
+
+## Contributing - 贡献
+
+You are welcome to contribute by: <br>
+* Adding missing notes or summaries for listed modules <br>
+* Improving clarity, structure, or correctness of existing notes <br>
+* Fixing typos or formatting issues <br>
+* Sharing references, textbooks, or external resources <br>
+
+Please ensure that any contribution:  <br>
+* Is your **own original work**, or properly referenced  <br>
+* Does **not violate course or institutional copyright**  <br>
+* Focuses on **understanding and methodology**, not blind copy-paste  <br>
+
+If you are unsure, feel free to open an issue first <br>
+&nbsp;
+
+你可以通过以下方式参与贡献：<br>
+* 补充当前缺失课程的学习笔记或总结 <br>
+* 改进已有笔记的思路，结构或严谨性 <br>
+* 修正拼写错误或排版问题 <br>
+* 分享有价值的参考文献、教材或外部学习资源 <br>
+
+请确保任何贡献内容：<br>
+* 为你**本人原创**，或已明确标注引用来源 <br>
+* 不违反**课程或学校的版权规定** <br>
+* 侧重于**理解与方法论**，而非简单的复制粘贴 <br>
+
+如果你不确定某项内容是否合适，欢迎先提交一个issue进行讨论 <br>
+&nbsp;
+
+## Currently Missing Study Notes - 目前缺失的笔记
+
+### [Year 1 - 大一](Year%201/)
+* **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
+* **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
+* **AERO40005 - Materials 1 - 材料学 1** <br>
+* **AERO40007 - Mechanics 1 - 力学 1** <br>
+### [Year 2 - 大二](Year%202/)
+* **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
+### [Year 3 - 大三](Year%203/) & Year 4 - 研一
+* **AERO60007 - Control Systems (Part 1) - 控制系统 (第一部分)** <br>
+* **AERO70002 - Advanced Manufacturing *(elective)*** <br>
+* **AERO70003 - Advanced Propulsion *(elective)*** <br>
+* **AERO70004 - Aeroelasticity *(elective)*** <br>
+* **AERO70005 - Aerothermodynamics of Launchers and Re-Entry Vehicles (Space) *(elective)*** <br>
+* **AERO70006 - Applications of Fluid Dynamics *(elective)*** <br>
+* **AERO70008 - Computational Fluid Dynamics *(elective)*** <br>
+* **AERO70010 - Finite Elements *(elective)*** <br>
+* **AERO70011 - High-Performance Computing *(elective)*** <br>
+* **AERO70012 - Innovation Management (S10; M/B) *(elective)*** <br>
+* **AERO70013 - Turbulence & Turbulence Modelling *(elective)*** <br>
+* **AERO70014 - Lightweight Structures *(elective)*** <br>
+* **AERO70016 - Orbital Mechanics (Space) *(elective)*** <br>
+* **AERO70018 - Spacecraft Structures (Space) *(elective)*** <br>
+* **AERO70019 - Spacecraft Systems (Space) *(elective)*** <br>
+* **AERO70020 - Advanced Fluid Mechanics & Fluid Structure Interaction *(elective)*** <br>
+* **AERO70024 - Applications of Computational Fluid Dynamics *(elective)*** <br>
+* **AERO70032 - Flow Instability & Transition *(elective)*** <br>
+* **AERO70035 - Structural Integrity and Health Monitoring *(elective)*** <br>
+* **AERO70041 - Aircraft Operations *(elective)*** <br>
+* **AERO70042 - Quantification of Aerospace Environmental Impact *(elective)*** <br>
+* **AERO71020 - Design for Additive Manufacturing (IDX) *(elective)*** <br>
+* **BUSI60037 - Accounting Online (M/B) *(elective)*** <br>
+* **BUSI60040 - Corporate Finance Online (M/B) *(elective)*** <br>
+* **BUSI60041 - Entrepreneurship (M/B) *(elective)*** <br>
+* **BUSI60042 - Entrepreneurship Online (M/B) *(elective)*** <br>
+* **BUSI60043 - Finance & Financial Manage. (M/B) *(elective)*** <br>
+* **DESE60008 - Design for Add. Manufacturing (IDX) *(elective)*** <br>
