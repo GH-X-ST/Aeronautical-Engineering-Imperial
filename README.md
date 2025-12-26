@@ -62,7 +62,7 @@ will update before August 2026 <br>
 ### [Year 3 - 大三](Year%203/) (2024-2025)
 * <ins>*AERO60002 - Aerospace Vehicle Design - 飞行器设计*</ins> <br>
   If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
-  如果你真的需要，我可以公开repository，但如果你敢直接照抄，而不是从中学习方法，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
+  如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
 * <ins>*AERO60004 - Aeronautics Group Design Project - 小组设计项目*</ins> <br>
   If you select a group design project related to vertical flight, especially helicopters, you can directly refer to the project I worked on [here](https://github.com/GH-X-ST/HALO) <br>
   如果你选择了与垂直飞行（特别是与直升机）有关的小组设计，我恰好参与过一个，看[这儿](https://github.com/GH-X-ST/HALO)
