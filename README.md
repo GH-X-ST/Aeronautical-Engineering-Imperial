@@ -58,7 +58,7 @@ will update before August 2026 <br>
   [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的C++教程
 * <ins>*AERO50010 - Engineering Practice 2 - 工程实践 2*</ins> <br>
   Once again, any Large Language Model would be much more helpful than my notes or previously written code <br>
-  说真的，任何大语言模型都比我的笔记或写过的代码好使多了
+  说真的，任何大语言模型都比我的笔记或屎山代码好使多了
 ### [Year 3 - 大三](Year%203/) (2024-2025)
 * <ins>*AERO60002 - Aerospace Vehicle Design - 飞行器设计*</ins> <br>
   If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
