@@ -1,5 +1,5 @@
 You are welcome to contribute by: <br>
-* Adding missing notes or summaries for listed modules <br>
+* Adding missing materials for listed modules <br>
 * Improving clarity, structure, or correctness of existing notes <br>
 * Fixing typos or formatting issues <br>
 * Sharing references, textbooks, or external resources <br>
@@ -13,7 +13,7 @@ If you are unsure, feel free to open an issue first <br>
 &nbsp;
 
 你可以通过以下方式参与贡献：<br>
-* 补充当前缺失课程的学习笔记或总结 <br>
+* 补充当前缺失课程的学习资料 <br>
 * 改进已有笔记的思路，结构或严谨性 <br>
 * 修正拼写错误或排版问题 <br>
 * 分享有价值的参考文献，教材或外部学习资源 <br>
