@@ -7,7 +7,7 @@ Trust me, things take a major step up from Year 2 onwards <br>
 整理时发现自己大一笔记和习题的质量有些一言难尽...但我实在抽不出时间重写一遍了 <br>
 相信我，从大二开始，学习资料有质的飞跃
 
-I would be eternally, infinitely, cosmically grateful if anyone could contribute or help fix any errors, see [Contributing](Contributing.md) for details. <br>
+I‘d be eternally, infinitely, cosmically grateful if anyone could contribute or help fix any errors, pls see [Contributing](Contributing.md) <br>
 如果您愿意补充上传更多资料或修正您发现的错误，我将超级无敌宇宙感激，详情请看[贡献](Contributing.md)<br>
 
 ## [Year 1 - 大一](Year%201/) (2022-2023)
