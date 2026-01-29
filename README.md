@@ -1,12 +1,45 @@
 ![Cover](Cover.jpg)
-*Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Notes** in English <br>
-*帝国理工 **航空工程 (本硕连读)*** 英文**学习笔记** <br>
+*Imperial College London **Aeronautical Engineering (MEng 4YFT)*** **Study Materials** in English <br>
+*帝国理工 **航空工程 (本硕连读)*** 英文**学习资料** <br>
 
 ## [Year 1 - 大一](Year%201/) (2022-2023)
-* **[AERO40001 - Aerodynamics 1](Year%201/AERO40001%20-%20Aerodynamics%201.pdf) - 空气动力学 1** <br>  
-* **[AERO40006 - Mathematics 1](Year%201/AERO40006%20-%20Mathematics%201.pdf) - 数学 1** <br>
-* **[AERO40008 - Structures 1](Year%201/AERO40008%20-%20Structures%201.pdf) - 结构学 1** <br> 
-* **[AERO40009 - Thermodynamics and Heat Transfer](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer.pdf) - 热力学与热传导** <br> 
+* **AERO40001 - Aerodynamics 1 - 空气动力学 1** <br>
+  * [Study Notes](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf) - 学习笔记
+  * [Tutoiral](Year%201/AERO40001%20-%20Aerodynamics%201/Tutoiral) - 习题
+* **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
+  * [Tutoiral](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutoiral) - 习题
+* **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
+  * Study Notes
+    * [MATLAB](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Study%20Notes/MATLAB)
+    * [Python](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Study%20Notes/Python)
+  * Tutorial - 习题
+    * [MATLAB](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Tutorial/MATLAB)
+    * [Numerical Methods](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Tutorial/Numerical3%20Methods) - 数值方法
+    * [Python](Year%201/AERO40003%20-%20Computing3%20and3%20Numerical3%20Methods%201/Tutorial/Python)
+* **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
+  * [Logbook](Year%201/AERO40004%20-%20Engineering%20Practice%201/Logbook) - 实验日志
+* **AERO40005 - Materials 1 - 材料学 1** <br>
+  * Tutorial - 习题
+    * [Part 1](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%201) - 第一部分
+    * [Part 2](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%202) - 第二部分
+* **AERO40006 - Mathematics 1 - 数学 1** <br>
+  * [Study Notes](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf) - 学习笔记
+  * Tutorial - 习题
+    * [Introduction](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Introduction) - 入门
+    * [Ordinary Differential Equations](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Ordinary%20Differential%20Equations) - 常微分方程
+    * [Linear Algebra](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra) - 线性代数
+* **AERO40007 - Mechanics 1 - 力学 1** <br>
+  * Tutorial - 习题
+    * [Part 1](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%201) - 第一部分
+    * [Part 2](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%202) - 第二部分
+* **AERO40008 - Structures 1 - 结构学 1** <br>
+  * [Study Notes](Year%201/AERO40008%20-%20Structures%201/Structures%201.pdf) - 学习笔记
+  * Tutorial - 习题
+    * [Part 1](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%201) - 第一部分
+    * [Part 2](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%202) - 第二部分
+* **AERO40009 - Thermodynamics and Heat Transfer - 热力学与热传导** <br>
+  * [Study Notes](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Thermodynamics%20and%20Heat%20Transfer.pdf) - 学习笔记
+  * [Tutoiral](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Tutoiral) - 习题
 
 ## [Year 2 - 大二](Year%202/) (2023-2024)  
 * **[AERO50001 - Aerodynamics 2](Year%202/AERO50001%20-%20Aerodynamics%202.pdf) - 空气动力学 2** <br>  
@@ -37,7 +70,7 @@ will update before August 2026 <br>
 
 ## Modules Covered by External References - 由外部参考资料覆盖的课程
 ### Year 1 - 大一
-* **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
+* **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
   Suggested reading awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology <br>
   推荐阅读由代尔夫特理工大学毕业生们整理的[航空航天概论学习笔记](https://www.aerostudents.com/)，非常之牛逼
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
