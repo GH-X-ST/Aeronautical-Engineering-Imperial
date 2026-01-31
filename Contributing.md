@@ -32,7 +32,7 @@ If you are unsure, feel free to open an issue first <br>
 &nbsp;
 <br>
 
-## Acknowledgements - 致谢 <br>
+## Acknowledgements - 致谢
 Contributors will be acknowledged here once contributions are made <br>
 贡献者将在此致谢 <br>
 
