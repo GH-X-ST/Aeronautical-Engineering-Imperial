@@ -28,6 +28,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
   * [Logbook](Year%201/AERO40004%20-%20Engineering%20Practice%201/Logbook) - 实验日志
 * **AERO40005 - Materials 1 - 材料学 1** <br>
+  * [Study Notes](Year%201/AERO40006%20-%20Materials%201/Materials%201.pdf) - 学习笔记 (@Haozeeeeeeeee)
   * Tutorial - 习题
     * [Part 1](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%201) - 第一部分
     * [Part 2](Year%201/AERO40005%20-%20Materials%201/Tutorial/Part%202) - 第二部分
@@ -38,6 +39,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
     * [Ordinary Differential Equations](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Ordinary%20Differential%20Equations) - 常微分方程
     * [Linear Algebra](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra) - 线性代数
 * **AERO40007 - Mechanics 1 - 力学 1** <br>
+  * [Study Notes](Year%201/AERO40006%20-%20Mechanics%201/Mechanics%201.pdf) - 学习笔记 (@Haozeeeeeeeee)
   * Tutorial - 习题
     * [Part 1](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%201) - 第一部分
     * [Part 2](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%202) - 第二部分
@@ -88,12 +90,6 @@ will update before August 2026 <br>
 * **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
   Honestly, any Large Language Model would be far more helpful than my notes or the code I have written <br>
   任何大语言模型都比我的笔记或屎山代码好使多了
-* **AERO40005 - Materials 1 - 材料学 1** <br>
-  Most of the content overlaps with the first half of the [Materials 2 study notes](Year%202/AERO50005%20-%20Materials%202.pdf) <br>
-  大部分内容可以参考[材料学 2 学习笔记](Year%202/AERO50005%20-%20Materials%202.pdf)的前半部分
-* **AERO40007 - Mechanics 1 - 力学 1** <br>
-  Just practise more problems, attend tutorials, and go through past papers <br>
-  多刷题就好啦
 ### Year 2 - 大二
 * **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
   [W3Schools](https://www.w3schools.com/) provides a detailed and systematic C++ tutorial <br>
