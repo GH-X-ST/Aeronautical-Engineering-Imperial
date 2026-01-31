@@ -31,8 +31,6 @@ If you are unsure, feel free to open an issue first <br>
 ### [Year 1 - 大一](Year%201/)
 * **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
-* **AERO40005 - Materials 1 - 材料学 1** <br>
-* **AERO40007 - Mechanics 1 - 力学 1** <br>
 ### [Year 2 - 大二](Year%202/)
 * **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
 ### [Year 3 - 大三](Year%203/) & Year 4 - 研一
@@ -69,3 +67,12 @@ If you are unsure, feel free to open an issue first <br>
 ## Acknowledgements - 致谢
 Contributors will be acknowledged here once contributions are made <br>
 贡献者将在此致谢
+
+* **AERO40005 - Materials 1 - 材料学 1** <br>
+  * [Study Notes](Year%201/AERO40006%20-%20Materials%201/Materials%201.pdf) - 学习笔记<br>
+    [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee) <br>
+
+* **AERO40007 - Mechanics 1 - 力学 1** <br>
+  * [Study Notes](Year%201/AERO40006%20-%20Mechanics%201/Mechanics%201.pdf) - 学习笔记
+    [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee) <br>
+
