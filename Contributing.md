@@ -69,10 +69,10 @@ Contributors will be acknowledged here once contributions are made <br>
 贡献者将在此致谢
 
 * **AERO40005 - Materials 1 - 材料学 1** <br>
-  * [Study Notes](Year%201/AERO40006%20-%20Materials%201/Materials%201.pdf) - 学习笔记<br>
+  * [Study Notes](Year%201/AERO40006%20-%20Materials%201/Materials%201.pdf) - 学习笔记 <br>
     [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee) <br>
 
 * **AERO40007 - Mechanics 1 - 力学 1** <br>
-  * [Study Notes](Year%201/AERO40006%20-%20Mechanics%201/Mechanics%201.pdf) - 学习笔记
+  * [Study Notes](Year%201/AERO40006%20-%20Mechanics%201/Mechanics%201.pdf) - 学习笔记 <br>
     [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee) <br>
 
