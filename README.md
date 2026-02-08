@@ -55,8 +55,8 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO40001 - Aerodynamics 2 - 空气动力学 1** <br>
   * [Study Notes](Year%202/AERO50001%20-%20Aerodynamics%202/Aerodynamics%202.pdf) - 学习笔记
   * Tutorial - 习题
-    * [Introduction](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow) - 不可压缩流体
-    * [Elasticity and Plasticity](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow) - 可压缩流体
+    * [Incompressible Flow](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow) - 不可压缩流体
+    * [Compressible Flow](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow) - 可压缩流体
 * **[AERO50002 - Flight Dynamics and Control](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control.pdf) - 飞行动力学与控制原理** <br>
 * **[AERO50005 - Materials 2](Year%202/AERO50005%20-%20Materials%202.pdf) - 材料学 2** <br> 
 * **AERO50006 - Mathematics 2 - 数学 2**
