@@ -4,7 +4,7 @@
 *本仓库中不包含任何与评分作业或考试有关的材料* <br>
 
 *Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README* <br>
-*来自其他贡献者的内容将在本README中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)* <br>
+*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)* <br>
 ![Cover](Cover.jpg)
 The quality of my Year 1 materials is a bit meh...I was still figuring things out and never got around to polishing it <br>
 Trust me, things take a major step up from Year 2 onwards <br>
