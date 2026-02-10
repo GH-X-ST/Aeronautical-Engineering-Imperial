@@ -60,7 +60,11 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO50002 - Flight Dynamics and Control - 飞行动力学与控制原理** <br>
   * [Study Notes](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf) - 学习笔记
   * [Tutorial](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial) - 习题
-* **[AERO50005 - Materials 2](Year%202/AERO50005%20-%20Materials%202.pdf) - 材料学 2** <br> 
+* **AERO50005 - Materials 2 - 材料学 2** <br>
+  * [Study Notes](Year%202/AERO50005%20-%20Materials%202/Materials%202.pdf) - 学习笔记
+  * Tutorial - 习题
+    * [Metals](Year%202/AERO50005%20-%20Materials%202/Tutorial/Metals) - 金属
+    * [Ceramics, Polymers and Composites](Year%202/AERO50005%20-%20Materials%202/Tutorial/Ceramics,%20Polymers%20and%20Composites) - 陶瓷，聚合物与复合材料
 * **AERO50006 - Mathematics 2 - 数学 2**
   * [Vector Calculus](Year%202/AERO50006%20-%20Vector%20Calculus.pdf) - 向量微积分
   * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Partial%20Differential%20Equations.pdf) - 偏微分方程
