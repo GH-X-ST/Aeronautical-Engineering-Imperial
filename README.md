@@ -35,13 +35,13 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * [Study Notes](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf) - 学习笔记
   * Tutorial - 习题
     * [Introduction](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Introduction) - 入门
-    * [Ordinary Differential Equations](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Ordinary%20Differential%20Equations) - 常微分方程
+    * [Ordinary Differential Equations](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/ODE) - 常微分方程
     * [Linear Algebra](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra) - 线性代数
-* **AERO40007 - Mechanics 1 - 力学 1** <br>
+* **AERO40007 - Mechanics - 力学** <br>
   * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
   * Tutorial - 习题
-    * [Part 1](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%201) - 第一部分
-    * [Part 2](Year%201/AERO40007%20-%20Mechanics%201/Tutorial/Part%202) - 第二部分
+    * [Part 1](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%201) - 第一部分
+    * [Part 2](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%202) - 第二部分
 * **AERO40008 - Structures 1 - 结构学 1** <br>
   * [Study Notes](Year%201/AERO40008%20-%20Structures%201/Structures%201.pdf) - 学习笔记
   * Tutorial - 习题
