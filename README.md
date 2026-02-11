@@ -35,7 +35,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * [Study Notes](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf) - 学习笔记
   * Tutorial - 习题
     * [Introduction](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Introduction) - 入门
-    * [Ordinary Differential Equations](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/ODE) - 常微分方程
+    * [Ordinary Differential Equation (ODE)](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/ODE) - 常微分方程
     * [Linear Algebra](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra) - 线性代数
 * **AERO40007 - Mechanics - 力学** <br>
   * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
