@@ -63,7 +63,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO50005 - Materials 2 - 材料学 2** <br>
   * [Study Notes](Year%202/AERO50005%20-%20Materials%202/Materials%202.pdf) - 学习笔记
   * Tutorial - 习题
-    * [Metals](Year%202/AERO50005%20-%20Materials%202/Tutorial/Metals) - 金属
+    * [Metals and Alloys](Year%202/AERO50005%20-%20Materials%202/Tutorial/Metals) - 金属与合金
     * [Ceramics, Polymers and Composites](Year%202/AERO50005%20-%20Materials%202/Tutorial/Ceramics,%20Polymers%20and%20Composites) - 陶瓷，聚合物与复合材料
 * **AERO50006 - Mathematics 2 - 数学 2**
   * Study Notes - 学习笔记
