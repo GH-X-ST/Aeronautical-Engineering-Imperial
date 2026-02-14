@@ -51,12 +51,11 @@ Contributors will be acknowledged here once contributions are made <br>
 ### [Year 1 - 大一](Year%201/) <br>
 * **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
-
-### [Year 2 - 大二](Year%202/) <br>
-* **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
+  * Numerical Methods - 数值方法 <br>
 
 ### [Year 3 - 大三](Year%203/) & Year 4 - 研一 <br>
-* **AERO60007 - Control Systems (Part 1) - 控制系统 (第一部分)** <br>
+* **AERO60007 - Control Systems - 控制系统** <br>
+  * State Space Methods - 状态空间法 <br>
 * **AERO70002 - Advanced Manufacturing *(elective)*** <br>
 * **AERO70003 - Advanced Propulsion *(elective)*** <br>
 * **AERO70004 - Aeroelasticity *(elective)*** <br>
