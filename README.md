@@ -62,11 +62,11 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * [Tutorial](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial) - 习题
 * **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
   * Study Notes - 学习笔记
-    * [Numerical Methods](Year%202/AERO50003%20-%20Computing20and20Numerical20Methods%202/Study%20Notes/Numerical20Methods.pdf) - 数值方法
-    * [C++](Year%202/AERO50003%20-%20Computing20and20Numerical20Methods%202/Study%20Notes/C++)
+    * [Numerical Methods](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/Numerical%20Methods.pdf) - 数值方法
+    * [C++](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/C++)
   * Tutorial - 习题
-    * [Numerical Methods](Year%202/AERO50003%20-%20Computing20and20Numerical20Methods%202/Tutorial/Numerical20Methods) - 数值方法
-    * [C++](Year%202/AERO50003%20-%20Computing20and20Numerical20Methods%202/Tutorial/C++)
+    * [Numerical Methods](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/Numerical%20Methods) - 数值方法
+    * [C++](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/C++)
 * **AERO50005 - Materials 2 - 材料学 2** <br>
   * [Study Notes](Year%202/AERO50005%20-%20Materials%202/Materials%202.pdf) - 学习笔记
   * Tutorial - 习题
