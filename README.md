@@ -67,10 +67,10 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
     * [Ceramics, Polymers and Composites](Year%202/AERO50005%20-%20Materials%202/Tutorial/Ceramics,%20Polymers%20and%20Composites) - 陶瓷，聚合物与复合材料
 * **AERO50006 - Mathematics 2 - 数学 2**
   * Study Notes - 学习笔记
-    * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Vector%20Calculus.pdf) - 向量微积分
-    * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Signals%20and%20Systems.pdf) - 信号与系统
-    * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/PDE.pdf) - 偏微分方程
-    * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Probability.pdf) - 概率学
+    * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Vector%20Calculus.pdf) - 向量微积分
+    * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Signals%20and%20Systems.pdf) - 信号与系统
+    * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/PDE.pdf) - 偏微分方程
+    * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Probability.pdf) - 概率学
   * Tutorial - 习题
     * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Vector%20Calculus) - 向量微积分
     * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Signals%20and%20Systems) - 信号与系统
