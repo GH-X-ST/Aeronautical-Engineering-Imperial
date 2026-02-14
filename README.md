@@ -119,13 +119,16 @@ will update before August 2026 <br>
 * **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
   [W3Schools](https://www.w3schools.com/) provides a detailed and systematic C++ tutorial <br>
   [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的C++教程
-* **AERO50010 - Engineering Practice 2 - 工程实践 2** <br>
+* **AERO50004 - Engineering Practice 2 (Technical) - 工程实践 2 (技术)** <br>
+  If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
+  如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
+* **AERO50010 - Engineering Practice 2 (Project Development) - 工程实践 2 (项目开发)** <br>
   Once again, any Large Language Model would be much more helpful than my notes or previously written code <br>
   说真的，任何大语言模型都比我的笔记或屎山代码好使多了
 ### Year 3 - 大三
 * **AERO60002 - Aerospace Vehicle Design - 飞行器设计** <br>
-  If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
-  如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
+  Again, If you really need it, I can make the repositories public, but if you even think about copying and pasting my code without understanding the methodology, I swear I will find you and fold you like a lawn chair <br>
+  嗯……再说一遍，如果你真的需要，我可以公开自己的仓库，但如果你敢照搬我的代码或结果，无论那一天我是死是活，我都会想方设法来到你的身边，然后然后抡起铜头皮带把你抽得如陀螺般旋转
 * **AERO60004 - Aeronautics Group Design Project - 小组设计项目** <br>
   If you select a group design project related to vertical flight, especially helicopters, you can directly refer to the project I worked on [here](https://github.com/GH-X-ST/HALO) <br>
   如果你选择了与垂直飞行（特别是与直升机）有关的小组设计，我恰好参与过一个，看[这儿](https://github.com/GH-X-ST/HALO)
