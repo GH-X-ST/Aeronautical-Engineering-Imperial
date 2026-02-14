@@ -60,6 +60,13 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO50002 - Flight Dynamics and Control - 飞行动力学与控制原理** <br>
   * [Study Notes](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf) - 学习笔记
   * [Tutorial](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial) - 习题
+* **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
+  * Study Notes - 学习笔记
+    * [Numerical Methods](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/Numerical%20Methods.pdf) - 数值方法
+    * [C++](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/C++)
+  * Tutorial - 习题
+    * [Numerical Methods](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/Numerical%20Methods) - 数值方法
+    * [C++](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/C++)
 * **AERO50005 - Materials 2 - 材料学 2** <br>
   * [Study Notes](Year%202/AERO50005%20-%20Materials%202/Materials%202.pdf) - 学习笔记
   * Tutorial - 习题
@@ -67,10 +74,10 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
     * [Ceramics, Polymers and Composites](Year%202/AERO50005%20-%20Materials%202/Tutorial/Ceramics,%20Polymers%20and%20Composites) - 陶瓷，聚合物与复合材料
 * **AERO50006 - Mathematics 2 - 数学 2**
   * Study Notes - 学习笔记
-    * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Vector%20Calculus.pdf) - 向量微积分
-    * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Signals%20and%20Systems.pdf) - 信号与系统
-    * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/PDE.pdf) - 偏微分方程
-    * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Probability.pdf) - 概率学
+    * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Vector%20Calculus.pdf) - 向量微积分
+    * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Signals%20and%20Systems.pdf) - 信号与系统
+    * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/PDE.pdf) - 偏微分方程
+    * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Probability.pdf) - 概率学
   * Tutorial - 习题
     * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Vector%20Calculus) - 向量微积分
     * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Signals%20and%20Systems) - 信号与系统
