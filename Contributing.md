@@ -3,44 +3,35 @@ You are welcome to contribute by: <br>
 * Improving clarity, structure, or correctness of existing notes <br>
 * Fixing typos or formatting issues <br>
 * Sharing references, textbooks, or external resources <br>
-<br>
 
 Please ensure that any contribution: <br>
 * Is your **own original work**, or properly referenced <br>
 * Does **not violate course or institutional copyright** <br>
 * Focuses on **understanding and methodology**, not blind copy-paste <br>
-<br>
 
 If you are unsure, feel free to open an issue first <br>
 &nbsp;
-<br>
 
 你可以通过以下方式参与贡献：<br>
 * 补充当前缺失课程的学习资料 <br>
 * 改进已有笔记的思路，结构或严谨性 <br>
 * 修正拼写错误或排版问题 <br>
 * 分享有价值的参考文献，教材或外部学习资源 <br>
-<br>
 
 请确保任何贡献内容：<br>
 * 为你**本人原创**，或已明确标注引用来源 <br>
 * 不违反**课程或学校的版权规定** <br>
 * 侧重于**理解与方法论**，而非简单的复制粘贴 <br>
-<br>
 
 如果你不确定某项内容是否合适，欢迎先提交一个 issue 进行讨论 <br>
 &nbsp;
-<br>
 
 ## Acknowledgements - 致谢
 Contributors will be acknowledged here once contributions are made <br>
 贡献者将在此致谢 <br>
-
 ### [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)
-
 * **AERO40005 - Materials 1 - 材料学 1** <br>
   * [Study Notes](Year%201/AERO40005%20-%20Materials%201/Materials%201.pdf) - 学习笔记 <br>
-
 * **AERO40007 - Mechanics 1 - 力学 1** <br>
   * [Study Notes](Year%201/AERO40007%20-%20Mechanics/Mechanics.pdf) - 学习笔记
 &nbsp;
