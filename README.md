@@ -6,8 +6,9 @@
 <sup>*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)*</sup> <br>
 ![Cover](Cover.jpg)
 The quality of my Year 1 materials is a bit meh...I was still figuring things out and never got around to polishing it <br>
-Trust me, things take a major step up from Year 2 onwards <br>
 整理时发现自己大一笔记和习题的质量有些一言难尽...但我实在抽不出时间重写一遍了 <br>
+
+Trust me, things take a major step up from Year 2 onwards <br>
 相信我，从大二开始，学习资料有质的飞跃
 
 I‘d be eternally, infinitely, cosmically grateful if anyone could contribute or help fix any errors, pls see [Contributing](Contributing.md) <br>
