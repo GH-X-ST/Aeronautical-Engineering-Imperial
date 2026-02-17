@@ -27,6 +27,8 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * Tutorial - 习题
     * [Numerical Methods](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Numerical%20Methods) - 数值方法
     * [Python](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
+* **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
+  * [Logbook](Year%201/AERO40004%20-%20Engineering%20Practice%201/Logbook) - 实验日志
 * **AERO40005 - Materials 1 - 材料学 1** <br>
   * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
   * Tutorial - 习题
