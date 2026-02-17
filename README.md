@@ -1,10 +1,9 @@
-*All notes and tutorial solutions are my own work and are shared for learning purposes only* <br>
-*No assessed or examination materials are included in this repository* <br>
-*所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的* <br>
-*本仓库中不包含任何与评分作业或考试有关的材料* <br>
-
-*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README* <br>
-*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)* <br>
+<sub>*All notes and tutorial solutions are my own work and are shared for learning purposes only*</sub> <br>
+<sup>*所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的*</sup> <br>
+<sub>*No assessed or examination materials are included in this repository*</sub> <br>
+<sup>*本仓库中不包含任何与评分作业或考试有关的材料*</sup> <br>
+<sub>*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README*</sub> <br>
+<sup>*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)*</sup> <br>
 ![Cover](Cover.jpg)
 The quality of my Year 1 materials is a bit meh...I was still figuring things out and never got around to polishing it <br>
 Trust me, things take a major step up from Year 2 onwards <br>
@@ -18,6 +17,13 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO40001 - Aerodynamics 1 - 空气动力学 1** <br>
   * [Study Notes](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf) - 学习笔记
   * [Tutorial](Year%201/AERO40001%20-%20Aerodynamics%201/Tutorial) - 习题
+  * Experiment - 实验 <br>
+    <sub>*All experimental data, figures, and results have been obscured, only my personal understanding and study notes about the lab are included*</sub> <br>
+    <sup>*所有实验数据、图表与结果均已被隐藏，分享内容仅限于对实验的个人理解与学习笔记*</sup>
+    * Pipe-flow Lab - 
+       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Pipe-flow%20Lab/Logbook.pdf) - 实验日志
+    * Flow Visualisation Lab -
+       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Flow%20Visualisation%20Lab/Logbook.pdf) - 实验日志
 * **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
   * [Tutorial](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutorial) - 习题
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
@@ -27,8 +33,6 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * Tutorial - 习题
     * [Numerical Methods](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Numerical%20Methods) - 数值方法
     * [Python](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
-* **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
-  * [Logbook](Year%201/AERO40004%20-%20Engineering%20Practice%201/Logbook) - 实验日志
 * **AERO40005 - Materials 1 - 材料学 1** <br>
   * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
   * Tutorial - 习题
