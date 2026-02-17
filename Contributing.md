@@ -1,3 +1,6 @@
+<sub>*If you are unsure, feel free to open an issue first*</sub> <br>
+<sup>*如果你不确定某项内容是否合适，欢迎先提交一个 issue 进行讨论*</sup> <br>
+
 You are welcome to contribute by: <br>
 * Adding missing materials for listed modules <br>
 * Improving clarity, structure, or correctness of existing notes <br>
@@ -8,8 +11,6 @@ Please ensure that any contribution: <br>
 * Is your **own original work**, or properly referenced <br>
 * Does **not violate course or institutional copyright** <br>
 * Focuses on **understanding and methodology**, not blind copy-paste <br>
-
-If you are unsure, feel free to open an issue first <br>
 &nbsp;
 
 你可以通过以下方式参与贡献：<br>
@@ -22,8 +23,6 @@ If you are unsure, feel free to open an issue first <br>
 * 为你**本人原创**，或已明确标注引用来源 <br>
 * 不违反**课程或学校的版权规定** <br>
 * 侧重于**理解与方法论**，而非简单的复制粘贴 <br>
-
-如果你不确定某项内容是否合适，欢迎先提交一个 issue 进行讨论 <br>
 &nbsp;
 
 ## Acknowledgements - 致谢
