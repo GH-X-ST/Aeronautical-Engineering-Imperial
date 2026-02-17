@@ -3,7 +3,7 @@
 <sub>*No assessed or examination materials are included in this repository*</sub> <br>
 <sup>*本仓库中不包含任何与评分作业或考试有关的材料*</sup> <br>
 <sub>*In this repository, for content labelled as experimental, all data, figures, and results have been hidden, only personal understanding and study notes are shared*</sub> <br>
-<sup>*在本仓库中，凡标注为实验的内容，所有数据、图表与结果均已隐藏，仅保留对实验的个人理解与学习笔记*</sup> <br>
+<sup>*在本仓库中，凡是标注为实验的内容，所有数据、图表与结果均已隐藏，仅保留对实验的个人理解与学习笔记*</sup> <br>
 <sub>*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README*</sub> <br>
 <sup>*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)*</sup> <br>
 ![Cover](Cover.jpg)
