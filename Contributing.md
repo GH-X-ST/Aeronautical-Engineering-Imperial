@@ -27,8 +27,8 @@ If you are unsure, feel free to open an issue first <br>
 &nbsp;
 
 ## Acknowledgements - 致谢
-Contributors will be acknowledged here once contributions are made <br>
-贡献者将在此致谢 <br>
+<sub>*Contributors will be acknowledged here once contributions are made*</sub> <br>
+<sup>*贡献者将在此致谢*</sup>
 ### [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)
 * **AERO40005 - Materials 1 - 材料学 1** <br>
   * [Study Notes](Year%201/AERO40005%20-%20Materials%201/Materials%201.pdf) - 学习笔记 <br>
