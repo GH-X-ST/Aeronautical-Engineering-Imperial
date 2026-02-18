@@ -2,6 +2,8 @@
 <sup>*所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的*</sup> <br>
 <sub>*No assessed or examination materials are included in this repository*</sub> <br>
 <sup>*本仓库中不包含任何与评分作业或考试有关的材料*</sup> <br>
+<sub>*In this repository, for content labelled as experimental, all data, figures, and results have been hidden, only personal understanding and study notes are shared*</sub> <br>
+<sup>*在本仓库中，凡是标注为实验的内容，所有数据、图表与结果均已隐藏，仅保留对实验的个人理解与学习笔记*</sup> <br>
 <sub>*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README*</sub> <br>
 <sup>*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)*</sup> <br>
 ![Cover](Cover.jpg)
@@ -19,8 +21,6 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * [Study Notes](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf) - 学习笔记
   * [Tutorial](Year%201/AERO40001%20-%20Aerodynamics%201/Tutorial) - 习题
   * Experiment - 实验 <br>
-    <sub>*All experimental data, figures, and results have been obscured, only my personal understanding and study notes are included*</sub> <br>
-    <sup>*所有实验数据、图表与结果均已被隐藏，分享内容仅限于对实验的个人理解与学习笔记*</sup>
     * Pipe-flow Lab - 
        * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Pipe-flow%20Lab/Logbook.pdf) - 实验日志
     * Flow Visualisation Lab -
