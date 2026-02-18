@@ -2,7 +2,7 @@
 <sup>*所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的*</sup> <br>
 <sub>*No assessed or examination materials are included in this repository*</sub> <br>
 <sup>*本仓库中不包含任何与评分作业或考试有关的材料*</sup> <br>
-<sub>*In this repository, for content labelled as experimental, all data, figures, and results have been hidden, only personal understanding and study notes are shared*</sub> <br>
+<sub>*In this repository, for content labelled as experimental, all data, figures, and results have been obscured, only personal understanding and study notes are shared*</sub> <br>
 <sup>*在本仓库中，凡是标注为实验的内容，所有数据、图表与结果均已隐藏，仅保留对实验的个人理解与学习笔记*</sup> <br>
 <sub>*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README*</sub> <br>
 <sup>*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)*</sup> <br>
@@ -20,13 +20,18 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **AERO40001 - Aerodynamics 1 - 空气动力学 1** <br>
   * [Study Notes](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf) - 学习笔记
   * [Tutorial](Year%201/AERO40001%20-%20Aerodynamics%201/Tutorial) - 习题
-  * Experiment - 实验 <br>
-    * Pipe-flow Lab - 
-       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Pipe-flow%20Lab/Logbook.pdf) - 实验日志
-    * Flow Visualisation Lab -
-       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Flow%20Visualisation%20Lab/Logbook.pdf) - 实验日志
+  * Experiment - 实验
+    * Pipe Flow - 管流
+       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Pipe%20Flow/Pipe%20Flow%20Logbook.pdf) - 实验日志
+    * Flow Visualisation - 流场可视化
+       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Flow%20Visualisation/Flow%20Visualisation%20Logbook.pdf) - 实验日志
 * **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
   * [Tutorial](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutorial) - 习题
+  * Experiment - 实验 <br>
+    * Flight Simulator - 飞行模拟器
+       * [Logbook](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Experiment/Flight%20Simulator/Flight%20Simulator%20Logbook.pdf) - 实验日志
+    * Wind Tunnel Test - 风洞测试
+       * [Logbook](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Experiment/Wind%20Tunnel%20Test/Wind%20Tunnel%20Test%20Logbook.pdf) - 实验日志
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
   * Study Notes - 学习笔记
     * [MATLAB](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/MATLAB)
@@ -39,6 +44,11 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * Tutorial - 习题
     * [Introduction](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction) - 入门
     * [Elasticity and Plasticity](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity) - 弹性与塑性
+  * Experiment - 实验 <br>
+    * Strain Measurement - 应力测试
+       * [Logbook](Year%201/AERO40005%20-%20Materials%201/Experiment/Strain%20Measurement/Strain%20Measurement%20Logbook.pdf) - 实验日志
+    * Tensile and Hardness Test - 拉伸与硬度实验
+       * [Logbook](Year%201/AERO40005%20-%20Materials%201/Experiment/Tensile%20and%20Hardness%20Test/Tensile%20and%20Hardness%20Test%20Logbook.pdf) - 实验日志
 * **AERO40006 - Mathematics 1 - 数学 1** <br>
   * [Study Notes](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf) - 学习笔记
   * Tutorial - 习题
@@ -55,6 +65,11 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * Tutorial - 习题
     * [Part 1](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%201) - 第一部分
     * [Part 2](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%202) - 第二部分
+  * Experiment - 实验 <br>
+    * Simple Beams - 简支梁
+       * [Logbook](Year%201/AERO40008%20-%20Structures%201/Experiment/Simple%20Beams/Simple%20Beams%20Logbook.pdf) - 实验日志
+    * Pin-Jointed Structure - 铰接结构
+       * [Logbook](Year%201/AERO40008%20-%20Structures%201/Experiment/Pin-Jointed%20Structure/Pin-Jointed%20Structure%20Logbook.pdf) - 实验日志
 * **AERO40009 - Thermodynamics and Heat Transfer - 热力学与热传导** <br>
   * [Study Notes](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Thermodynamics%20and%20Heat%20Transfer.pdf) - 学习笔记
   * [Tutorial](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Tutorial) - 习题
