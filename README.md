@@ -107,8 +107,12 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
     * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/PDE) - 偏微分方程
     * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Probability) - 概率学
 * **AERO50007 - Mechatronics - 机电一体化**
-  * [Signals and Systems](Year%202/AERO50006%20%26%20AERO50007%20-%20Signals%20and%20Systems.pdf) (Part 2) - 信号与系统 (第二部分)
-  * [Circuit](Year%202/AERO50007%20-%20Circuit.pdf) - 电路
+  * Study Notes - 学习笔记
+    * [Signals and Systems](Year%202/AERO50007%20-%20Mechatronics/Study%20Notes/Signals%20and%20Systems.pdf) - 信号与系统
+    * [Circuit](Year%202/AERO50007%20-%20Mechatronics/Study%20Notes/Circuit.pdf) - 电路
+  * Tutorial - 习题
+    * [Signals and Systems](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Signals%20and%20Systems.pdf) - 信号与系统
+    * [Circuit](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Circuit.pdf) - 电路
 * **[AERO50008 - Structures 2](Year%202/AERO50008%20-%20Structures%202.pdf) - 结构学 2** <br>
 * **[AERO50009 - Propulsion and Turbomachinery](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery.pdf) - 推进系统与涡轮机** <br>
 
