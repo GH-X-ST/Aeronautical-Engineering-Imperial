@@ -116,7 +116,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **[AERO50008 - Structures 2](Year%202/AERO50008%20-%20Structures%202.pdf) - 结构学 2** <br>
   * [Study Notes](Year%202/AERO50008%20-%20Structures%202/Structures%202.pdf) - 学习笔记
   * Tutorial - 习题
-    * [Structural Dynamics](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural20Dynamics) - 结构动力学
+    * [Structural Dynamics](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics) - 结构动力学
     * [Buckling](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling) - 屈曲
 * **[AERO50009 - Propulsion and Turbomachinery](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery.pdf) - 推进系统与涡轮机** <br>
 
