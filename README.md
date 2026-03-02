@@ -114,6 +114,10 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
     * [Signals and Systems](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Signals%20and%20Systems) - 信号与系统
     * [Circuit](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Circuit) - 电路
 * **[AERO50008 - Structures 2](Year%202/AERO50008%20-%20Structures%202.pdf) - 结构学 2** <br>
+  * [Study Notes](Year%202/AERO50008%20-%20Structures%202/Structures%202.pdf) - 学习笔记
+  * Tutorial - 习题
+    * [Structural Dynamics](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural20Dynamics) - 结构动力学
+    * [Buckling](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling) - 屈曲
 * **[AERO50009 - Propulsion and Turbomachinery](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery.pdf) - 推进系统与涡轮机** <br>
 
 ## [Year 3 - 大三](Year%203/) (2024-2025)  
@@ -124,8 +128,8 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 * **[AERO70038 - Introduction to Vertical Flight](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf) *(elective)* - 垂直飞行概论 *(选修)*** <br>
 
 ## Year 4 - 研一 (2025-2026)  
-will update before August 2026 <br> 
-将于2026年8月前更新 <br>
+will update before September 2026 <br> 
+将于2026年9月前更新 <br>
 &nbsp;
 
 ## Modules Covered by External References - 由外部参考资料覆盖的课程
