@@ -118,7 +118,9 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * Tutorial - 习题
     * [Structural Dynamics](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics) - 结构动力学
     * [Buckling](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling) - 屈曲
-* **[AERO50009 - Propulsion and Turbomachinery](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery.pdf) - 推进系统与涡轮机** <br>
+* **AERO50009 - Propulsion and Turbomachinery - 推进系统与涡轮机** <br>
+  * [Study Notes](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf) - 学习笔记
+  * [Tutorial](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Tutorial) - 习题
 
 ## [Year 3 - 大三](Year%203/) (2024-2025)  
 * **[AERO60001 - Aerodynamics 3](Year%203/AERO60001%20-%20Aerodynamics%203.pdf) - 空气动力学 3** <br>
