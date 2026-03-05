@@ -1,74 +1,82 @@
-<sub>*If you are unsure, feel free to open an issue first*</sub> <br>
-<sup>*如果你不确定某项内容是否合适，欢迎先提交一个 issue 进行讨论*</sup> <br>
+## About
+If you want to contribute: sincerely, seriously, and with an unnecessary amount of gratitude — thank you.
 
-You are welcome to contribute by: <br>
-你可以通过以下方式参与贡献：<br>
-* Adding missing materials for listed modules <br>
-  补充当前缺失课程的学习资料 <br>
-* Improving clarity, structure, or correctness of existing notes <br>
-  改进已有笔记的思路，结构或严谨性 <br>
-* Fixing typos or formatting issues <br>
-  修正拼写错误或排版问题 <br>
-* Sharing references, textbooks, or external resources <br>
-  分享有价值的参考文献，教材或外部学习资源 <br>
-
-Please ensure that any contribution: <br>
-请确保任何贡献内容：<br>
-* Is your **own original work**, or properly referenced <br>
-  为你**本人原创**，或已明确标注引用来源 <br>
-* Does **not violate course or institutional copyright** <br>
-  不违反**课程或学校的版权规定** <br>
-* Focuses on **understanding and methodology**, not blind copy-paste <br>
-  侧重于**理解与方法论**，而非简单的复制粘贴 <br>
+If you are unsure whether something is appropriate to upload, open an issue first.
 &nbsp;
 
-# Acknowledgements - 致谢
-<sub>*Contributors will be acknowledged here once contributions are made*</sub> <br>
-<sup>*贡献者将在此致谢*</sup>
-## [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)
-* ### **AERO40005 - Materials 1 - 材料学 1** <br>
-  * [Study Notes](Year%201/AERO40005%20-%20Materials%201/Materials%201.pdf) - 学习笔记 <br>
-* ### **AERO40007 - Mechanics 1 - 力学 1** <br>
-  * [Study Notes](Year%201/AERO40007%20-%20Mechanics/Mechanics.pdf) - 学习笔记
+## Contents
+- [What you can contribute](#what-you-can-contribute)
+- [A few rules](#a-few-rules)
+- [Acknowledgements](#acknowledgements)
+- [Currently missing study notes](#currently-missing-study-notes)
+
+---
+
+## What you can contribute
+- Adding missing materials for listed modules
+- Improving clarity, structure, or correctness of existing notes
+- Fixing typos, broken links, or formatting issues
+- Sharing references, textbooks, or external resources
+
+## A few rules
+Please ensure that any contribution:
+- Is your **own original work**, or properly referenced
+- Does **not** violate course or institutional copyright
+- Focuses on **understanding and methodology**, not blind copy-paste
+
+---
+
+## Acknowledgements
+Contributors will be acknowledged here once contributions are made.
+
+<a id="haozeeeeeeeee"></a>
+### [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)
+- **AERO40005 — Materials 1:** [Handwritten notes](Year%201/AERO40005%20-%20Materials%201/Materials%201.pdf)
+- **AERO40007 — Mechanics:** [Handwritten notes](Year%201/AERO40007%20-%20Mechanics/Mechanics.pdf)
 &nbsp;
-<br>
 
-# Currently Missing Study Notes - 目前缺失的笔记 <br>
+---
 
-## [Year 1 - 大一](Year%201/) <br>
-* **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
-* **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
-  * Numerical Methods - 数值方法 <br>
+## Currently Missing Study Notes
 
-## [Year 3 - 大三](Year%203/) & Year 4 - 研一 <br>
-* **AERO60007 - Control Systems - 控制系统** <br>
-  * State Space Methods - 状态空间法 <br>
-* **AERO70002 - Advanced Manufacturing *(elective)*** <br>
-* **AERO70003 - Advanced Propulsion *(elective)*** <br>
-* **AERO70004 - Aeroelasticity *(elective)*** <br>
-* **AERO70005 - Aerothermodynamics of Launchers and Re-Entry Vehicles (Space) *(elective)*** <br>
-* **AERO70006 - Applications of Fluid Dynamics *(elective)*** <br>
-* **AERO70008 - Computational Fluid Dynamics *(elective)*** <br>
-* **AERO70010 - Finite Elements *(elective)*** <br>
-* **AERO70011 - High-Performance Computing *(elective)*** <br>
-* **AERO70012 - Innovation Management (S10; M/B) *(elective)*** <br>
-* **AERO70013 - Turbulence & Turbulence Modelling *(elective)*** <br>
-* **AERO70014 - Lightweight Structures *(elective)*** <br>
-* **AERO70016 - Orbital Mechanics (Space) *(elective)*** <br>
-* **AERO70018 - Spacecraft Structures (Space) *(elective)*** <br>
-* **AERO70019 - Spacecraft Systems (Space) *(elective)*** <br>
-* **AERO70020 - Advanced Fluid Mechanics & Fluid Structure Interaction *(elective)*** <br>
-* **AERO70024 - Applications of Computational Fluid Dynamics *(elective)*** <br>
-* **AERO70032 - Flow Instability & Transition *(elective)*** <br>
-* **AERO70035 - Structural Integrity and Health Monitoring *(elective)*** <br>
-* **AERO70041 - Aircraft Operations *(elective)*** <br>
-* **AERO70042 - Quantification of Aerospace Environmental Impact *(elective)*** <br>
-* **AERO71020 - Design for Additive Manufacturing (IDX) *(elective)*** <br>
-* **BUSI60037 - Accounting Online (M/B) *(elective)*** <br>
-* **BUSI60040 - Corporate Finance Online (M/B) *(elective)*** <br>
-* **BUSI60041 - Entrepreneurship (M/B) *(elective)*** <br>
-* **BUSI60042 - Entrepreneurship Online (M/B) *(elective)*** <br>
-* **BUSI60043 - Finance & Financial Management (M/B) *(elective)*** <br>
-* **DESE60008 - Design for Additive Manufacturing (IDX) *(elective)*** <br>
+### [Year 1](Year%201/)
+- **AERO40001 — Introduction to Aerospace**
+
+- **AERO40003 — Computing and Numerical Methods 1**
+  - Numerical Methods
+
+### [Year 3](Year%203/) & Year 4
+- **AERO60007 — Control Systems**
+  - State Space Methods
+
+- **AERO70002 — Advanced Manufacturing** *(elective)*
+- **AERO70003 — Advanced Propulsion** *(elective)*
+- **AERO70004 — Aeroelasticity** *(elective)*
+- **AERO70005 — Aerothermodynamics of Launchers and Re-Entry Vehicles (Space)** *(elective)*
+- **AERO70006 — Applications of Fluid Dynamics** *(elective)*
+- **AERO70008 — Computational Fluid Dynamics** *(elective)*
+- **AERO70010 — Finite Elements** *(elective)*
+- **AERO70011 — High-Performance Computing** *(elective)*
+- **AERO70012 — Innovation Management (S10; M/B)** *(elective)*
+- **AERO70013 — Turbulence & Turbulence Modelling** *(elective)*
+- **AERO70014 — Lightweight Structures** *(elective)*
+- **AERO70016 — Orbital Mechanics (Space)** *(elective)*
+- **AERO70018 — Spacecraft Structures (Space)** *(elective)*
+- **AERO70019 — Spacecraft Systems (Space)** *(elective)*
+- **AERO70020 — Advanced Fluid Mechanics & Fluid Structure Interaction** *(elective)*
+- **AERO70024 — Applications of Computational Fluid Dynamics** *(elective)*
+- **AERO70032 — Flow Instability & Transition** *(elective)*
+- **AERO70035 — Structural Integrity and Health Monitoring** *(elective)*
+- **AERO70041 — Aircraft Operations** *(elective)*
+- **AERO70042 — Quantification of Aerospace Environmental Impact** *(elective)*
+- **AERO71020 — Design for Additive Manufacturing (IDX)** *(elective)*
+
+- **BUSI60037 — Accounting Online (M/B)** *(elective)*
+- **BUSI60040 — Corporate Finance Online (M/B)** *(elective)*
+- **BUSI60041 — Entrepreneurship (M/B)** *(elective)*
+- **BUSI60042 — Entrepreneurship Online (M/B)** *(elective)*
+- **BUSI60043 — Finance & Financial Management (M/B)** *(elective)*
+
+- **DESE60008 — Design for Additive Manufacturing (IDX)** *(elective)*
+
 &nbsp;
-<br>
