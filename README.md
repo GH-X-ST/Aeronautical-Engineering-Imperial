@@ -16,8 +16,8 @@
 ![Cover](Cover.jpg)
 
 ## About
-A collection of my Imperial Aeronautics notes, tutorials, and selected lab logbooks.<br>
-The quality of my Year 1 materials is a bit meh...Trust me, things take a major step up from Year 2 onwards.
+A collection of study materials from my 4-year MEng programme in Aeronautical Engineering. <br>
+~~Looking back, my Year 1 materials are… impressively rough. Trust me, things take a major step up from Year 2 onwards.~~
 
 I‘d be eternally, infinitely, cosmically grateful if anyone could contribute or help fix any errors, pls see [Contributing](Contributing.md).
 &nbsp;
