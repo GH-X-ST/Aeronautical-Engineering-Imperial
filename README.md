@@ -115,7 +115,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   * ### Tutorial - 习题
     * [Signals and Systems](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Signals%20and%20Systems) - 信号与系统
     * [Circuit](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Circuit) - 电路
-## **[AERO50008 - Structures 2](Year%202/AERO50008%20-%20Structures%202.pdf) - 结构学 2** <br>
+## **AERO50008 - Structures 2 - 结构学 2** <br>
   * ### [Study Notes](Year%202/AERO50008%20-%20Structures%202/Structures%202.pdf) - 学习笔记
   * ### Tutorial - 习题
     * [Structural Dynamics](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics) - 结构动力学
