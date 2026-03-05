@@ -1,168 +1,207 @@
-<sub>*All notes and tutorial solutions are my own work and are shared for learning purposes only*</sub> <br>
-<sup>*所有笔记与习题解答均由本人独立完成，仅用于学习与交流目的*</sup> <br>
-<sub>*No assessed or examination materials are included in this repository*</sub> <br>
-<sup>*本仓库中不包含任何与评分作业或考试有关的材料*</sup> <br>
-<sub>*In this repository, for content labelled as experimental, all data, figures, and results have been obscured, only personal understanding and study notes are shared*</sub> <br>
-<sup>*在本仓库中，凡是标注为实验的内容，所有数据、图表与结果均已隐藏，仅保留对实验的个人理解与学习笔记*</sup> <br>
-<sub>*Contributions from others will be [credited](Contributing.md#acknowledgements---致谢) in italics in this README*</sub> <br>
-<sup>*来自其他贡献者的内容将在本自述文件中以斜体形式标注并[致谢](Contributing.md#acknowledgements---致谢)*</sup> <br>
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Choose README language-English-0000cd?style=for-the-badge&labelColor=ffffff">
+  </a>
+  <a href="README_CN.md">
+    <img src="https://img.shields.io/badge/-中文-000000?style=for-the-badge&labelColor=ffffff">
+  </a>
+</p>
+
+<p align="center">
+  <sub>本仓库仅包含个人学习笔记与习题解答，不包含任何评分作业或考试材料。</sub><br>
+  <sub>凡是涉及实验的内容，所有数据、图表与结果均已隐藏，仅分享个人理解与学习笔记。</sub><br>
+  <sub>来自其他贡献者的内容将在本自述文件中以<em>斜体</em>形式标注，并在 <a href="Contributing.md">Contributing</a> 中致谢。</sub>
+</p>
+
 ![Cover](Cover.jpg)
-The quality of my Year 1 materials is a bit meh...I was still figuring things out and never got around to polishing it <br>
-整理时发现自己大一笔记和习题的质量有些一言难尽...但我实在抽不出时间重写一遍了 <br>
 
-Trust me, things take a major step up from Year 2 onwards <br>
-相信我，从大二开始，学习资料有质的飞跃
+## 关于
+本仓库收录我在帝国理工 Aeronautics 的课程笔记、习题与部分实验日志。<br>
+~~整理时发现自己大一时的学习资料真是一坨勾使...相信我，从大二开始，学习资料有质的飞跃。~~
 
-I‘d be eternally, infinitely, cosmically grateful if anyone could contribute or help fix any errors, pls see [Contributing](Contributing.md) <br>
-如果您愿意补充上传更多资料或修正您发现的错误，我将超级无敌宇宙感激，详情请看[贡献](Contributing.md)<br>
-
-## [Year 1 - 大一](Year%201/) (2022-2023)
-* **AERO40001 - Aerodynamics 1 - 空气动力学 1** <br>
-  * [Study Notes](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf) - 学习笔记
-  * [Tutorial](Year%201/AERO40001%20-%20Aerodynamics%201/Tutorial) - 习题
-  * Experiment - 实验
-    * Pipe Flow - 管流
-       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Pipe%20Flow/Pipe%20Flow%20Logbook.pdf) - 实验日志
-    * Flow Visualisation - 流场可视化
-       * [Logbook](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Flow%20Visualisation/Flow%20Visualisation%20Logbook.pdf) - 实验日志
-* **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
-  * [Tutorial](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutorial) - 习题
-  * Experiment - 实验 <br>
-    * Flight Simulator - 飞行模拟器
-       * [Logbook](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Experiment/Flight%20Simulator/Flight%20Simulator%20Logbook.pdf) - 实验日志
-    * Wind Tunnel Test - 风洞测试
-       * [Logbook](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Experiment/Wind%20Tunnel%20Test/Wind%20Tunnel%20Test%20Logbook.pdf) - 实验日志
-* **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
-  * Study Notes - 学习笔记
-    * [MATLAB](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/MATLAB)
-    * [Python](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/Python)
-  * Tutorial - 习题
-    * [Numerical Methods](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Numerical%20Methods) - 数值方法
-    * [Python](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
-* **AERO40005 - Materials 1 - 材料学 1** <br>
-  * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
-  * Tutorial - 习题
-    * [Introduction](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction) - 入门
-    * [Elasticity and Plasticity](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity) - 弹性与塑性
-  * Experiment - 实验 <br>
-    * Strain Measurement - 应力测试
-       * [Logbook](Year%201/AERO40005%20-%20Materials%201/Experiment/Strain%20Measurement/Strain%20Measurement%20Logbook.pdf) - 实验日志
-    * Tensile and Hardness Test - 拉伸与硬度实验
-       * [Logbook](Year%201/AERO40005%20-%20Materials%201/Experiment/Tensile%20and%20Hardness%20Test/Tensile%20and%20Hardness%20Test%20Logbook.pdf) - 实验日志
-* **AERO40006 - Mathematics 1 - 数学 1** <br>
-  * [Study Notes](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf) - 学习笔记
-  * Tutorial - 习题
-    * [Introduction](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Introduction) - 入门
-    * [Ordinary Differential Equation (ODE)](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/ODE) - 常微分方程
-    * [Linear Algebra](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra) - 线性代数
-* **AERO40007 - Mechanics - 力学** <br>
-  * *[Study Notes](Contributing.md#haozeeeeeeeee) - 学习笔记*
-  * Tutorial - 习题
-    * [Part 1](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%201) - 第一部分
-    * [Part 2](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%202) - 第二部分
-* **AERO40008 - Structures 1 - 结构学 1** <br>
-  * [Study Notes](Year%201/AERO40008%20-%20Structures%201/Structures%201.pdf) - 学习笔记
-  * Tutorial - 习题
-    * [Part 1](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%201) - 第一部分
-    * [Part 2](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%202) - 第二部分
-  * Experiment - 实验 <br>
-    * Simple Beams - 简支梁
-       * [Logbook](Year%201/AERO40008%20-%20Structures%201/Experiment/Simple%20Beams/Simple%20Beams%20Logbook.pdf) - 实验日志
-    * Pin-Jointed Structure - 铰接结构
-       * [Logbook](Year%201/AERO40008%20-%20Structures%201/Experiment/Pin-Jointed%20Structure/Pin-Jointed%20Structure%20Logbook.pdf) - 实验日志
-* **AERO40009 - Thermodynamics and Heat Transfer - 热力学与热传导** <br>
-  * [Study Notes](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Thermodynamics%20and%20Heat%20Transfer.pdf) - 学习笔记
-  * [Tutorial](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Tutorial) - 习题
-
-## [Year 2 - 大二](Year%202/) (2023-2024)
-* **AERO40001 - Aerodynamics 2 - 空气动力学 1** <br>
-  * [Study Notes](Year%202/AERO50001%20-%20Aerodynamics%202/Aerodynamics%202.pdf) - 学习笔记
-  * Tutorial - 习题
-    * [Incompressible Flow](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow) - 不可压缩流体
-    * [Compressible Flow](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow) - 可压缩流体
-* **AERO50002 - Flight Dynamics and Control - 飞行动力学与控制原理** <br>
-  * [Study Notes](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf) - 学习笔记
-  * [Tutorial](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial) - 习题
-* **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
-  * Study Notes - 学习笔记
-    * [Numerical Methods](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/Numerical%20Methods.pdf) - 数值方法
-    * [C++](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/C++)
-  * Tutorial - 习题
-    * [Numerical Methods](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/Numerical%20Methods) - 数值方法
-    * [C++](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/C++)
-* **AERO50005 - Materials 2 - 材料学 2** <br>
-  * [Study Notes](Year%202/AERO50005%20-%20Materials%202/Materials%202.pdf) - 学习笔记
-  * Tutorial - 习题
-    * [Metals and Alloys](Year%202/AERO50005%20-%20Materials%202/Tutorial/Metals) - 金属与合金
-    * [Ceramics, Polymers and Composites](Year%202/AERO50005%20-%20Materials%202/Tutorial/Ceramics,%20Polymers%20and%20Composites) - 陶瓷，聚合物与复合材料
-* **AERO50006 - Mathematics 2 - 数学 2**
-  * Study Notes - 学习笔记
-    * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Vector%20Calculus.pdf) - 向量微积分
-    * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Signals%20and%20Systems.pdf) - 信号与系统
-    * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/PDE.pdf) - 偏微分方程
-    * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Probability.pdf) - 概率学
-  * Tutorial - 习题
-    * [Vector Calculus](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Vector%20Calculus) - 向量微积分
-    * [Signals and Systems](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Signals%20and%20Systems) - 信号与系统
-    * [Partial Differential Equation (PDE)](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/PDE) - 偏微分方程
-    * [Probability](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Probability) - 概率学
-* **AERO50007 - Mechatronics - 机电一体化**
-  * Study Notes - 学习笔记
-    * [Signals and Systems](Year%202/AERO50007%20-%20Mechatronics/Study%20Notes/Signals%20and%20Systems.pdf) - 信号与系统
-    * [Circuit](Year%202/AERO50007%20-%20Mechatronics/Study%20Notes/Circuit.pdf) - 电路
-  * Tutorial - 习题
-    * [Signals and Systems](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Signals%20and%20Systems) - 信号与系统
-    * [Circuit](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Circuit) - 电路
-* **[AERO50008 - Structures 2](Year%202/AERO50008%20-%20Structures%202.pdf) - 结构学 2** <br>
-  * [Study Notes](Year%202/AERO50008%20-%20Structures%202/Structures%202.pdf) - 学习笔记
-  * Tutorial - 习题
-    * [Structural Dynamics](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics) - 结构动力学
-    * [Buckling](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling) - 屈曲
-* **AERO50009 - Propulsion and Turbomachinery - 推进系统与涡轮机** <br>
-  * [Study Notes](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf) - 学习笔记
-  * [Tutorial](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Tutorial) - 习题
-
-## [Year 3 - 大三](Year%203/) (2024-2025)  
-* **[AERO60001 - Aerodynamics 3](Year%203/AERO60001%20-%20Aerodynamics%203.pdf) - 空气动力学 3** <br>
-* **[AERO60007 - Control Systems](Year%203/AERO60007%20-%20Control%20Systems.pdf) - 控制系统** <br>
-* **[AERO60008 - Structures 3](Year%203/AERO60008%20-%20Structures%203.pdf) - 结构学 3** <br>
-* **[AERO70015 - Mathematics 3](Year%203/AERO70015%20-%20Mathematics%203.pdf) *(elective)* - 数学 3 *(选修)*** <br>
-* **[AERO70038 - Introduction to Vertical Flight](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf) *(elective)* - 垂直飞行概论 *(选修)*** <br>
-
-## Year 4 - 研一 (2025-2026)  
-will update before September 2026 <br> 
-将于2026年9月前更新 <br>
+如果您愿意补充上传更多资料或修正您发现的错误，我将超级无敌宇宙感激，详情请看 [Contributing](Contributing.md)。
 &nbsp;
 
-## Modules Covered by External References - 由外部参考资料覆盖的课程
-### Year 1 - 大一
-* **AERO40002 - Introduction to Aerospace - 航空航天概论** <br>
-  Suggested reading awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology <br>
-  推荐阅读由代尔夫特理工大学毕业生们整理的[航空航天概论学习笔记](https://www.aerostudents.com/)，非常之牛逼
-* **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
-  [W3Schools](https://www.w3schools.com/) provides detailed and systematic tutorials for MATLAB and Python <br>
-  [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的MATLAB与Python教程
-* **AERO40004 - Engineering Practice 1 - 工程实践 1** <br>
-  Honestly, any Large Language Model would be far more helpful than my notes or the code I have written <br>
-  任何大语言模型都比我的笔记或屎山代码好使多了
-### Year 2 - 大二
-* **AERO50003 - Computing and Numerical Methods 2 - 计算机与数值方法 2** <br>
-  [W3Schools](https://www.w3schools.com/) provides a detailed and systematic C++ tutorial <br>
-  [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的C++教程
-* **AERO50004 - Engineering Practice 2 (Technical) - 工程实践 2 (技术)** <br>
-  If you really need it, I can make the repositories public, but if you dare to simply copy and paste my code instead of learning the methodology behind it, I will find you and fold you like a lawn chair <br>
-  如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转
-* **AERO50010 - Engineering Practice 2 (Project Development) - 工程实践 2 (项目开发)** <br>
-  Once again, any Large Language Model would be much more helpful than my notes or previously written code <br>
-  说真的，任何大语言模型都比我的笔记或屎山代码好使多了
-### Year 3 - 大三
-* **AERO60002 - Aerospace Vehicle Design - 飞行器设计** <br>
-  Again, If you really need it, I can make the repositories public, but if you even think about copying and pasting my code without understanding the methodology, I swear I will find you and fold you like a lawn chair <br>
-  嗯……再说一遍，如果你真的需要，我可以公开自己的仓库，但如果你敢照搬我的成果，无论那一天我是死是活，都会想方设法来到你的身边，抡起铜头皮带把你抽得如陀螺般旋转
-* **AERO60004 - Aeronautics Group Design Project - 小组设计项目** <br>
-  If you select a group design project related to vertical flight, especially helicopters, you can directly refer to the project I worked on [here](https://github.com/GH-X-ST/HALO) <br>
-  如果你选择了与垂直飞行（特别是与直升机）有关的小组设计，我恰好参与过一个，看[这儿](https://github.com/GH-X-ST/HALO)
-* **AERO60007 - Control Systems (Part 1) - 控制系统 (第一部分)** <br>
-  You can read *Feedback Systems: An Introduction for Scientists and Engineers*  <br>
-  去读读《反馈系统：多学科视角 *(Feedback Systems: An Introduction for Scientists and Engineers)*》吧 <br>
-&nbsp;
+## 目录
+- [大一 (2022–2023)](#year-1-20222023)
+- [大二 (2023–2024)](#year-2-20232024)
+- [大三 (2024–2025)](#year-3-20242025)
+- [大四 (2025–2026)](#year-4-20252026)
+- [由外部参考资料覆盖的课程](#modules-covered-by-external-references)
+
+---
+
+<a id="year-1-20222023"></a>
+
+## 大一 (2022–2023)
+
+### AERO40001 — 空气动力学 1
+- **学习笔记：** [手写笔记](Year%201/AERO40001%20-%20Aerodynamics%201/Aerodynamics%201.pdf)
+- **习题：** [手写解答](Year%201/AERO40001%20-%20Aerodynamics%201/Tutorial)
+- **实验**
+  - 管流： [实验日志](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Pipe%20Flow/Pipe%20Flow%20Logbook.pdf)
+  - 流场可视化： [实验日志](Year%201/AERO40001%20-%20Aerodynamics%201/Experiment/Flow%20Visualisation/Flow%20Visualisation%20Logbook.pdf)
+
+### AERO40002 — 航空航天概论
+- **习题：** [手写解答](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Tutorial)
+- **实验**
+  - 飞行模拟器： [实验日志](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Experiment/Flight%20Simulator/Flight%20Simulator%20Logbook.pdf)
+  - 风洞测试： [实验日志](Year%201/AERO40002%20-%20Introduction%20to%20Aerospace/Experiment/Wind%20Tunnel%20Test/Wind%20Tunnel%20Test%20Logbook.pdf)
+
+### AERO40003 — 计算机与数值方法 1
+- **学习笔记**
+  - MATLAB： [Cheatsheet](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/MATLAB)
+  - Python： [Jupyter Notebook 笔记](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/Python)
+- **习题**
+  - 数值方法： [MATLAB 解答](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Numerical%20Methods)
+  - Python： [Jupyter Notebook 解答](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
+
+### AERO40005 — 材料学 1
+- ***学习笔记：*** *[手写笔记](Contributing.md#haozeeeeeeeee)*
+- **习题**
+  - 入门： [Introduction](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction)
+  - 弹性与塑性： [Elasticity and Plasticity](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity)
+- **实验**
+  - 应力测量： [实验日志](Year%201/AERO40005%20-%20Materials%201/Experiment/Strain%20Measurement/Strain%20Measurement%20Logbook.pdf)
+  - 拉伸与硬度测试： [实验日志](Year%201/AERO40005%20-%20Materials%201/Experiment/Tensile%20and%20Hardness%20Test/Tensile%20and%20Hardness%20Test%20Logbook.pdf)
+
+### AERO40006 — 数学 1
+- **学习笔记：** [手写笔记](Year%201/AERO40006%20-%20Mathematics%201/Mathematics%201.pdf)
+- **习题**
+  - 入门： [手写解答](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Introduction)
+  - ODE（常微分方程）： [手写解答](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/ODE)
+  - 线性代数： [手写解答](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra)
+
+### AERO40007 — 力学
+- ***学习笔记：*** *[手写笔记](Contributing.md#haozeeeeeeeee)*
+- **习题**
+  - 第一部分： [手写解答](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%201)
+  - 第二部分： [手写解答](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%202)
+
+### AERO40008 — 结构学 1
+- **学习笔记：** [手写笔记](Year%201/AERO40008%20-%20Structures%201/Structures%201.pdf)
+- **习题**
+  - 第一部分： [手写解答](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%201)
+  - 第二部分： [手写解答](Year%201/AERO40008%20-%20Structures%201/Tutorial/Part%202)
+- **实验**
+  - 简支梁： [实验日志](Year%201/AERO40008%20-%20Structures%201/Experiment/Simple%20Beams/Simple%20Beams%20Logbook.pdf)
+  - 铰接结构： [实验日志](Year%201/AERO40008%20-%20Structures%201/Experiment/Pin-Jointed%20Structure/Pin-Jointed%20Structure%20Logbook.pdf)
+
+### AERO40009 — 热力学与热传导
+- **学习笔记：** [手写笔记](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Thermodynamics%20and%20Heat%20Transfer.pdf)
+- **习题：** [手写解答](Year%201/AERO40009%20-%20Thermodynamics%20and%20Heat%20Transfer/Tutorial)
+
+---
+
+<a id="year-2-20232024"></a>
+
+## 大二 (2023–2024)
+
+### AERO50001 — 空气动力学 2
+- **学习笔记：** [手写笔记](Year%202/AERO50001%20-%20Aerodynamics%202/Aerodynamics%202.pdf)
+- **习题**
+  - 不可压缩流体： [手写解答](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow)
+  - 可压缩流体： [手写解答](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow)
+
+### AERO50002 — 飞行动力学与控制原理
+- **学习笔记：** [手写笔记](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf)
+- **习题：** [手写解答](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial)
+
+### AERO50003 — 计算机与数值方法 2
+- **学习笔记**
+  - 数值方法： [手写笔记](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/Numerical%20Methods.pdf)
+  - C++： [学习笔记](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Study%20Notes/C++)
+- **习题**
+  - 数值方法： [MATLAB 解答](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/Numerical%20Methods)
+  - C++： [C++ 解答](Year%202/AERO50003%20-%20Computing%20and%20Numerical%20Methods%202/Tutorial/C++)
+
+### AERO50005 — 材料学 2
+- **学习笔记：** [手写笔记](Year%202/AERO50005%20-%20Materials%202/Materials%202.pdf)
+- **习题**
+  - 金属与合金： [手写解答](Year%202/AERO50005%20-%20Materials%202/Tutorial/Metals)
+  - 陶瓷、聚合物与复合材料： [手写解答](Year%202/AERO50005%20-%20Materials%202/Tutorial/Ceramics,%20Polymers%20and%20Composites)
+
+### AERO50006 — 数学 2
+- **学习笔记**
+  - 向量微积分： [手写笔记](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Vector%20Calculus.pdf)
+  - 信号与系统： [手写笔记](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Signals%20and%20Systems.pdf)
+  - PDE（偏微分方程）： [手写笔记](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/PDE.pdf)
+  - 概率学： [手写笔记](Year%202/AERO50006%20-%20Mathematics%202/Study%20Notes/Probability.pdf)
+- **习题**
+  - 向量微积分： [手写解答](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Vector%20Calculus)
+  - 信号与系统： [手写解答](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Signals%20and%20Systems)
+  - PDE（偏微分方程）： [手写解答](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/PDE)
+  - 概率学： [手写解答](Year%202/AERO50006%20-%20Mathematics%202/Tutorial/Probability)
+
+### AERO50007 — 机电一体化
+- **学习笔记**
+  - 信号与系统： [手写笔记](Year%202/AERO50007%20-%20Mechatronics/Study%20Notes/Signals%20and%20Systems.pdf)
+  - 电路： [手写笔记](Year%202/AERO50007%20-%20Mechatronics/Study%20Notes/Circuit.pdf)
+- **习题**
+  - 信号与系统： [手写解答](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Signals%20and%20Systems)
+  - 电路： [手写解答](Year%202/AERO50007%20-%20Mechatronics/Tutorial/Circuit)
+
+### AERO50008 — 结构学 2
+- **学习笔记：** [手写笔记](Year%202/AERO50008%20-%20Structures%202/Structures%202.pdf)
+- **习题**
+  - 结构动力学： [手写解答](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics)
+  - 屈曲： [手写解答](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling)
+
+### AERO50009 — 推进系统与涡轮机
+- **学习笔记：** [手写笔记](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf)
+- **习题：** [手写解答](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Tutorial)
+
+---
+
+<a id="year-3-20242025"></a>
+
+## 大三 (2024–2025)
+
+- **AERO60001 — 空气动力学 3：** [手写笔记](Year%203/AERO60001%20-%20Aerodynamics%203.pdf)
+- **AERO60007 — 控制系统：** [手写笔记](Year%203/AERO60007%20-%20Control%20Systems.pdf)
+- **AERO60008 — 结构学 3：** [手写笔记](Year%203/AERO60008%20-%20Structures%203.pdf)
+- **AERO70015 — 数学 3（选修）：** [手写笔记](Year%203/AERO70015%20-%20Mathematics%203.pdf)
+- **AERO70038 — 垂直飞行概论（选修）：** [手写笔记](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf)
+
+---
+
+<a id="year-4-20252026"></a>
+
+## 大四 (2025–2026)
+将于 2026 年 9 月前更新。
+
+---
+
+<a id="modules-covered-by-external-references"></a>
+
+## 由外部参考资料覆盖的课程
+
+### 大一
+- **AERO40002 — 航空航天概论**  
+  推荐阅读：由代尔夫特理工大学学生整理的 [Intro to Aerospace study notes](https://www.aerostudents.com/)，非常之牛逼。
+
+- **AERO40003 — 计算机与数值方法 1**  
+  [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的 MATLAB 与 Python 教程。
+
+- **AERO40004 — 工程实践 1**  
+  任何大语言模型都比我的笔记或屎山代码有用多了。
+
+### 大二
+- **AERO50003 — 计算机与数值方法 2**  
+  [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的 C++ 教程。
+
+- **AERO50004 — 工程实践 2（技术）**  
+  如果你真的需要，我可以公开自己的仓库，但如果你敢直接照抄，无论你在地球的哪个角落，我都会找到你，然后抡起铜头皮带把你抽得如陀螺般旋转。
+
+- **AERO50010 — 工程实践 2（项目开发）**  
+  说真的，任何大语言模型都比我的笔记或屎山代码好使多了。
+
+### 大三
+- **AERO60002 — 飞行器设计**  
+  嗯……再说一遍，如果你真的需要，我可以公开自己的仓库，但如果你敢照搬我的成果，我会想方设法来到你的身边，抡起铜头皮带把你抽得如陀螺般旋转。
+
+- **AERO60004 — 小组设计项目**  
+  如果你选择了与垂直飞行（特别是与直升机）有关的小组设计，我恰好参与过一个，看这儿：https://github.com/GH-X-ST/HALO。
+
+- **AERO60007 — 控制系统**  
+  去读读《反馈系统：多学科视角 *(Feedback Systems: An Introduction for Scientists and Engineers)*》吧。
