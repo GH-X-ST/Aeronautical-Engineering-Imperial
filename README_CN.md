@@ -57,10 +57,10 @@
   - Python： [Jupyter Notebook 解答](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
 
 ### AERO40005 — 材料学 1
-- ***学习笔记：*** *[手写笔记](Contributing.md#haozeeeeeeeee)*
+- ***学习笔记：*** *[手写笔记](Contributing.md#haozeeeeeeeee)* <sup>来自 [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)</sup>
 - **习题**
-  - 入门： [Introduction](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction)
-  - 弹性与塑性： [Elasticity and Plasticity](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity)
+  - 入门： [手写解答](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction)
+  - 弹性与塑性： [手写解答](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity)
 - **实验**
   - 应力测量： [实验日志](Year%201/AERO40005%20-%20Materials%201/Experiment/Strain%20Measurement/Strain%20Measurement%20Logbook.pdf)
   - 拉伸与硬度测试： [实验日志](Year%201/AERO40005%20-%20Materials%201/Experiment/Tensile%20and%20Hardness%20Test/Tensile%20and%20Hardness%20Test%20Logbook.pdf)
@@ -73,7 +73,7 @@
   - 线性代数： [手写解答](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra)
 
 ### AERO40007 — 力学
-- ***学习笔记：*** *[手写笔记](Contributing.md#haozeeeeeeeee)*
+- ***学习笔记：*** *[手写笔记](Contributing.md#haozeeeeeeeee)* <sup>来自 [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)</sup>
 - **习题**
   - 第一部分： [手写解答](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%201)
   - 第二部分： [手写解答](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%202)
