@@ -17,7 +17,7 @@
 
 ## About
 A collection of study materials from my 4-year MEng programme in Aeronautical Engineering. <br>
-~~Looking back, my Year 1 materials are… impressively rough. Trust me, things take a major step up from Year 2 onwards.~~
+~~Looking back, my Year 1 materials are… impressively $hit. Trust me, things take a major step up from Year 2 onwards.~~
 
 I‘d be eternally, infinitely, cosmically grateful if anyone could contribute or help fix any errors, pls see [Contributing](Contributing.md).
 &nbsp;
@@ -168,7 +168,7 @@ Will update before September 2026.
 
 ### Year 1
 - **AERO40002 — Introduction to Aerospace**  
-  Suggested reading: [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology.
+  Suggested reading: awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology.
 - **AERO40003 — Computing and Numerical Methods 1**  
   [W3Schools](https://www.w3schools.com/) provides detailed and systematic tutorials for MATLAB and Python.
 - **AERO40004 — Engineering Practice 1**  
