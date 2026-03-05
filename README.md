@@ -55,7 +55,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Python: [Solutions in Jupyter Notebook](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Python)
 
 ### AERO40005 — Materials 1
-- ***Study Notes:*** *[Handwritten notes](Contributing.md#haozeeeeeeeee)*
+- ***Study Notes:*** *[Handwritten notes](Year%201/AERO40005%20-%20Materials%201/Materials%201.pdf)* <sup>by [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)</sup>
 - **Tutorial**
   - [Introduction](Year%201/AERO40005%20-%20Materials%201/Tutorial/Introduction)
   - [Elasticity and Plasticity](Year%201/AERO40005%20-%20Materials%201/Tutorial/Elasticity%20and%20Plasticity)
@@ -71,7 +71,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Linear Algebra: [Handwritten solutions](Year%201/AERO40006%20-%20Mathematics%201/Tutorial/Linear%20Algebra)
 
 ### AERO40007 — Mechanics
-- ***Study Notes:*** *[Handwritten notes](Contributing.md#haozeeeeeeeee)*
+- ***Study Notes:*** *[Handwritten notes](Year%201/AERO40007%20-%20Mechanics/Mechanics.pdf)* <sup>by [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)</sup>
 - **Tutorial**
   - Part 1: [Handwritten solutions](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%201)
   - Part 2: [Handwritten solutions](Year%201/AERO40007%20-%20Mechanics/Tutorial/Part%202)
