@@ -1,5 +1,5 @@
 ## About
-If you want to contribute: sincerely, seriously, and with an unnecessary amount of gratitude — thank you.
+If you want to contribute: sincerely, seriously, and with a huge amount of gratitude — thank you.
 
 If you are unsure whether something is appropriate to upload, open an issue first.
 &nbsp;
