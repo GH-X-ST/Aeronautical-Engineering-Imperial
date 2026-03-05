@@ -50,7 +50,7 @@
 
 ### AERO40003 — 计算机与数值方法 1
 - **学习笔记**
-  - MATLAB： [Cheatsheet](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/MATLAB)
+  - MATLAB： [速查表](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/MATLAB)
   - Python： [Jupyter Notebook 笔记](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Study%20Notes/Python)
 - **习题**
   - 数值方法： [MATLAB 解答](Year%201/AERO40003%20-%20Computing%20and%20Numerical%20Methods%201/Tutorial/Numerical%20Methods)
