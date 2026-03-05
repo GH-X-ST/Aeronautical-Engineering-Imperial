@@ -22,25 +22,25 @@ Please ensure that any contribution: <br>
   侧重于**理解与方法论**，而非简单的复制粘贴 <br>
 &nbsp;
 
-## Acknowledgements - 致谢
+# Acknowledgements - 致谢
 <sub>*Contributors will be acknowledged here once contributions are made*</sub> <br>
 <sup>*贡献者将在此致谢*</sup>
-### [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)
-* **AERO40005 - Materials 1 - 材料学 1** <br>
+## [@Haozeeeeeeeee](https://github.com/Haozeeeeeeeee)
+* ### **AERO40005 - Materials 1 - 材料学 1** <br>
   * [Study Notes](Year%201/AERO40005%20-%20Materials%201/Materials%201.pdf) - 学习笔记 <br>
-* **AERO40007 - Mechanics 1 - 力学 1** <br>
+* ### **AERO40007 - Mechanics 1 - 力学 1** <br>
   * [Study Notes](Year%201/AERO40007%20-%20Mechanics/Mechanics.pdf) - 学习笔记
 &nbsp;
 <br>
 
-## Currently Missing Study Notes - 目前缺失的笔记 <br>
+# Currently Missing Study Notes - 目前缺失的笔记 <br>
 
-### [Year 1 - 大一](Year%201/) <br>
+## [Year 1 - 大一](Year%201/) <br>
 * **AERO40001 - Introduction to Aerospace - 航空航天概论** <br>
 * **AERO40003 - Computing and Numerical Methods 1 - 计算机与数值方法 1** <br>
   * Numerical Methods - 数值方法 <br>
 
-### [Year 3 - 大三](Year%203/) & Year 4 - 研一 <br>
+## [Year 3 - 大三](Year%203/) & Year 4 - 研一 <br>
 * **AERO60007 - Control Systems - 控制系统** <br>
   * State Space Methods - 状态空间法 <br>
 * **AERO70002 - Advanced Manufacturing *(elective)*** <br>
