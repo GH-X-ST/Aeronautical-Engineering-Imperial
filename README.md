@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Choose README language-English-000000?style=for-the-badge&labelColor=ffffff">
-  </a>
-  <a href="README_CN.md">
-    <img src="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=ffffff">
-  </a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=ffffff" /></a>
+  <a href="README_CN.md"><img src="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=ffffff" /></a>
 </p>
 
 <p align="center">
