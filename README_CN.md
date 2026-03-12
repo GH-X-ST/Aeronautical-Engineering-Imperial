@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/选择自述文件语言-English-0000cd?style=for-the-badge&labelColor=ffffff" /></a>
-  <a href="README_CN.md"><img src="https://img.shields.io/badge/-中文-000000?style=for-the-badge&labelColor=ffffff" /></a>
-</p>
+<p align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/选择自述文件语言-English-0000CD?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/选择自述文件语言-English-0000CD?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/选择自述文件语言-English-0000CD?style=for-the-badge&labelColor=FFFFFF" alt="选择自述文件语言：English"></picture></a><!--
+--><a href="README_CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-中文-FFFFFF?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-中文-000000?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/-中文-000000?style=for-the-badge&labelColor=FFFFFF" alt="中文 README"></picture></a></p>
 
 <p align="center">
   <sub>本仓库仅包含个人学习笔记与习题解答，不包含任何评分作业或考试材料。</sub><br>
@@ -9,7 +7,8 @@
   <sub>来自其他贡献者的内容将在本自述文件中以<em>斜体</em>形式标注，并在 <a href="Contributing.md">Contributing</a> 中致谢。</sub>
 </p>
 
-![Cover](Cover.jpg)
+![Cover light](Cover.jpg#gh-light-mode-only)
+![Cover dark](Cover_dark.jpg#gh-dark-mode-only)
 
 ## 关于
 本仓库收录我在帝国理工 Aeronautics 的课程笔记、习题与部分实验日志。<br>
