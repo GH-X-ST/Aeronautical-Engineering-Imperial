@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=ffffff" /></a>
-  <a href="README_CN.md"><img src="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=ffffff" /></a>
-</p>
+<p align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Choose%20README%20language-English-FFFFFF?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=FFFFFF" alt="Choose README language: English"></picture></a><!--
+--><a href="README_CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-中文-0000CD?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/-中文-0000CD?style=for-the-badge&labelColor=FFFFFF" alt="中文 README"></picture></a></p>
 
 <p align="center">
   <sub>Personal study notes and tutorial solutions only. No assessed or examination materials are included.</sub><br>
@@ -9,7 +7,8 @@
   <sub>Contributions from others will be <a href="Contributing.md">credited</a> in <em>italics</em> in this README.
 </p>
  
-![Cover](Cover.jpg)
+![Cover light](Cover.jpg#gh-light-mode-only)
+![Cover dark](Cover_dark.jpg#gh-dark-mode-only)
 
 ## About
 A collection of study materials from my 4-year MEng programme in Aeronautical Engineering. <br>
