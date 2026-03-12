@@ -147,7 +147,7 @@
   - 屈曲： [手写解答](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling)
 - **实验**
   - 欧拉屈曲: [实验日志](Year%202/AERO50008%20-%20Structures%202/Experiment/Euler%20Buckling/Euler%20Buckling%20Logbook.pdf)
-  - 飞机模型的振动: [实验日志](Year%202/AERO50008%20-%20Structures%202/Experiment/Vibration%20of%20an%20Aircraft%20Model/Vibration%20of%20an%20AircraftvModel%20Logbook.pdf)
+  - 飞机模型的振动: [实验日志](Year%202/AERO50008%20-%20Structures%202/Experiment/Vibration%20of%20an%20Aircraft%20Model/Vibration%20of%20an%20Aircraft%20Model%20Logbook.pdf)
 
 ### AERO50009 — 推进系统与涡轮机
 - **学习笔记：** [手写笔记](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf)
