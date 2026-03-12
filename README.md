@@ -195,5 +195,5 @@ Will update before September 2026.
 &nbsp;
 
 ## Stargazers Over Time
-[![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%0000cd)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-light-mode-only)
-[![Stargazers over time dark](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%FFFFFF&line=%ffff00)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-dark-mode-only)
+[![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%230000cd)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-light-mode-only)
+[![Stargazers over time dark](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23ffffff&line=%23ffff00)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-dark-mode-only)
