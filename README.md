@@ -94,7 +94,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Incompressible Flow: [Handwritten solutions](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow)
   - Compressible Flow: [Handwritten solutions](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow)
 - **Experiments**
-  - Circular Cylinder: [Logbook](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Circular%20Cylinder/Circular%20Cylinder%20Logbook.pdf)
+  - Measurement of the Pressure Distribution on a Circular Cylinder: [Logbook](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Circular%20Cylinder/Circular%20Cylinder%20Logbook.pdf)
   - Profile Drag and Wake Momentum: [Logbook](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Profile%20Drag%20and%20Wake%20Momentum/Profile%20Drag%20and%20Wake%20Momentum%20Logbook.pdf)
 
 ### AERO50002 — Flight Dynamics and Control
