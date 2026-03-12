@@ -191,3 +191,9 @@ Will update before September 2026.
   If you select a group design project related to vertical flight (especially helicopters), you can refer to the project I worked on [here](https://github.com/GH-X-ST/HALO).
 - **AERO60007 — Control Systems**  
   You can read *Feedback Systems: An Introduction for Scientists and Engineers*.
+
+&nbsp;
+
+## Stargazers Over Time
+[![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%0000cd)](https://starchart.cc/GH-X-ST/HALO#gh-light-mode-only)
+[![Stargazers over time dark](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%FFFFFF&line=%ffff00)](https://starchart.cc/GH-X-ST/HALO#gh-dark-mode-only)
