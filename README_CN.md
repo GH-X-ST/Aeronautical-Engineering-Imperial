@@ -97,10 +97,14 @@
 - **习题**
   - 不可压缩流体： [手写解答](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow)
   - 可压缩流体： [手写解答](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow)
+- **实验**
+  - 圆柱表面压力分布的测量: [实验日志](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Circular%20Cylinder/Circular%20Cylinder%20Logbook.pdf)
+  - 型阻与尾迹动量: [实验日志](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Profile%20Drag%20and%20Wake%20Momentum/Profile%20Drag%20and%20Wake%20Momentum%20Logbook.pdf)
 
 ### AERO50002 — 飞行动力学与控制原理
 - **学习笔记：** [手写笔记](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf)
 - **习题：** [手写解答](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial)
+- **实验:** [实验日志](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Experiment/Aircraft%20Dynamics%20and%20Autopilot%20Design%20Logbook.pdf)
 
 ### AERO50003 — 计算机与数值方法 2
 - **学习笔记**
@@ -141,6 +145,9 @@
 - **习题**
   - 结构动力学： [手写解答](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics)
   - 屈曲： [手写解答](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling)
+- **实验**
+  - 欧拉屈曲: [实验日志](Year%202/AERO50008%20-%20Structures%202/Experiment/Euler%20Buckling/Euler%20Buckling%20Logbook.pdf)
+  - 飞机模型的振动: [实验日志](Year%202/AERO50008%20-%20Structures%202/Experiment/Vibration%20of%20an%20Aircraft%20Model/Vibration%20of%20an%20AircraftvModel%20Logbook.pdf)
 
 ### AERO50009 — 推进系统与涡轮机
 - **学习笔记：** [手写笔记](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf)
