@@ -1,7 +1,5 @@
-<p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=ffffff" /></a>
-  <a href="README_CN.md"><img src="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=ffffff" /></a>
-</p>
+<p align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Choose%20README%20language-English-FFFFFF?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/Choose%20README%20language-English-000000?style=for-the-badge&labelColor=FFFFFF" alt="Choose README language: English"></picture></a><!--
+--><a href="README_CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-中文-0000CD?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/-中文-0000CD?style=for-the-badge&labelColor=FFFFFF" alt="中文 README"></picture></a></p>
 
 <p align="center">
   <sub>Personal study notes and tutorial solutions only. No assessed or examination materials are included.</sub><br>
@@ -9,7 +7,8 @@
   <sub>Contributions from others will be <a href="Contributing.md">credited</a> in <em>italics</em> in this README.
 </p>
  
-![Cover](Cover.jpg)
+![Cover light](Cover.jpg#gh-light-mode-only)
+![Cover dark](Cover_dark.jpg#gh-dark-mode-only)
 
 ## About
 A collection of study materials from my 4-year MEng programme in Aeronautical Engineering. <br>
@@ -94,10 +93,14 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 - **Tutorial**
   - Incompressible Flow: [Handwritten solutions](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Incompressible%20Flow)
   - Compressible Flow: [Handwritten solutions](Year%202/AERO50001%20-%20Aerodynamics%202/Tutorial/Compressible%20Flow)
+- **Experiments**
+  - Measurement of the Pressure Distribution on a Circular Cylinder: [Logbook](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Circular%20Cylinder/Circular%20Cylinder%20Logbook.pdf)
+  - Profile Drag and Wake Momentum: [Logbook](Year%202/AERO50001%20-%20Aerodynamics%202/Experiment/Profile%20Drag%20and%20Wake%20Momentum/Profile%20Drag%20and%20Wake%20Momentum%20Logbook.pdf)
 
 ### AERO50002 — Flight Dynamics and Control
 - **Study Notes:** [Handwritten notes](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf)
 - **Tutorial:** [Handwritten solutions](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial)
+- **Experiments:** [Logbook](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Experiment/Aircraft%20Dynamics%20and%20Autopilot%20Design%20Logbook.pdf)
 
 ### AERO50003 — Computing and Numerical Methods 2
 - **Study Notes**
@@ -138,6 +141,9 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 - **Tutorial**
   - Structural Dynamics: [Handwritten solutions](Year%202/AERO50008%20-%20Structures%202/Tutorial/Structural%20Dynamics)
   - Buckling: [Handwritten solutions](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling)
+- **Experiments**
+  - Euler Buckling: [Logbook](Year%202/AERO50008%20-%20Structures%202/Experiment/Euler%20Buckling/Euler%20Buckling%20Logbook.pdf)
+  - Vibration of an Aircraft Model: [Logbook](Year%202/AERO50008%20-%20Structures%202/Experiment/Vibration%20of%20an%20Aircraft%20Model/Vibration%20of%20an%20AircraftvModel%20Logbook.pdf)
 
 ### AERO50009 — Propulsion and Turbomachinery
 - **Study Notes:** [Handwritten notes](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf)
