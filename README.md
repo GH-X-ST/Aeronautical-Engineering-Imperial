@@ -143,7 +143,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Buckling: [Handwritten solutions](Year%202/AERO50008%20-%20Structures%202/Tutorial/Buckling)
 - **Experiments**
   - Euler Buckling: [Logbook](Year%202/AERO50008%20-%20Structures%202/Experiment/Euler%20Buckling/Euler%20Buckling%20Logbook.pdf)
-  - Vibration of an Aircraft Model: [Logbook](Year%202/AERO50008%20-%20Structures%202/Experiment/Vibration%20of%20an%20Aircraft%20Model/Vibration%20of%20an%20AircraftvModel%20Logbook.pdf)
+  - Vibration of an Aircraft Model: [Logbook](Year%202/AERO50008%20-%20Structures%202/Experiment/Vibration%20of%20an%20Aircraft%20Model/Vibration%20of%20an%20Aircraft%20Model%20Logbook.pdf)
 
 ### AERO50009 — Propulsion and Turbomachinery
 - **Study Notes:** [Handwritten notes](Year%202/AERO50009%20-%20Propulsion%20and%20Turbomachinery/Propulsion%20and%20Turbomachinery.pdf)
