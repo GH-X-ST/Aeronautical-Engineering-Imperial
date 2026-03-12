@@ -104,7 +104,7 @@
 ### AERO50002 — 飞行动力学与控制原理
 - **学习笔记：** [手写笔记](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf)
 - **习题：** [手写解答](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Tutorial)
-- **实验:** [实验日志](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Experiment/Aircraft%20Dynamics%20and%20Autopilot%20Design%20Logbook.pdf)
+- **实验：** [实验日志](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Experiment/Aircraft%20Dynamics%20and%20Autopilot%20Design%20Logbook.pdf)
 
 ### AERO50003 — 计算机与数值方法 2
 - **学习笔记**
