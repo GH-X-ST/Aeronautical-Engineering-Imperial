@@ -192,7 +192,7 @@ Will update before September 2026.
 - **AERO60007 — Control Systems**  
   You can read *Feedback Systems: An Introduction for Scientists and Engineers*.
 
-&nbsp;
+---
 
 ## Stargazers Over Time
 [![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%230000cd)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-light-mode-only)
