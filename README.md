@@ -153,11 +153,20 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 
 ## Year 3 (2024–2025)
 
-- **AERO60001 — Aerodynamics 3:** [Handwritten notes](Year%203/AERO60001%20-%20Aerodynamics%203.pdf)
-- **AERO60007 — Control Systems:** [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems.pdf)
-- **AERO60008 — Structures 3:** [Handwritten notes](Year%203/AERO60008%20-%20Structures%203.pdf)
-- **AERO70015 — Mathematics 3 (Elective):** [Handwritten notes](Year%203/AERO70015%20-%20Mathematics%203.pdf)
-- **AERO70038 — Introduction to Vertical Flight (Elective):** [Handwritten notes](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight.pdf)
+### AERO60001 — Aerodynamics 3
+- **Study Notes:** [Handwritten notes](Year%203/AERO60001%20-%20Aerodynamics%203/Aerodynamics%203.pdf)
+
+### AERO60007 — Control Systems
+- **Study Notes:** [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Control%20Systems.pdf)
+
+### AERO60008 — Structures 3
+- **Study Notes:** [Handwritten notes](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
+
+### AERO70015 — Mathematics 3 (Elective)
+- **Study Notes:** [Handwritten notes](Year%203/AERO70015%20-%20Mathematics%203/Mathematics%203.pdf)
+
+### AERO70038 — Introduction to Vertical Flight (Elective)
+- **Study Notes:** [Handwritten notes](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight/Introduction%20to%20Vertical%20Flight.pdf)
 
 ---
 
