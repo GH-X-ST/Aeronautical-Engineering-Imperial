@@ -207,3 +207,9 @@
 
 - **AERO60007 — 控制系统**  
   去读读《反馈系统：多学科视角 *(Feedback Systems: An Introduction for Scientists and Engineers)*》吧。
+
+---
+
+## 数星星
+[![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%230000cd)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-light-mode-only)
+[![Stargazers over time dark](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23ffffff&line=%23ffff00)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-dark-mode-only)
