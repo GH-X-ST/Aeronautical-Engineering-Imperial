@@ -155,6 +155,13 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 
 ### AERO60001 — Aerodynamics 3
 - **Study Notes:** [Handwritten notes](Year%203/AERO60001%20-%20Aerodynamics%203/Aerodynamics%203.pdf)
+- **Tutorial**
+  - Incompressible Flow: [Handwritten solutions](Year%203/AERO60001%20-%20Aerodynamics%203/Tutorial/Incompressible%20Flow)
+  - Compressible Flow: [Handwritten solutions](Year%203/AERO60001%20-%20Aerodynamics%203/Tutorial/Compressible%20Flow)
+- **Experiments**
+  - Low Speed Flow Past a High Aspect Ratio Wing: [Notes](Year%203/AERO60001%20-%20Aerodynamics%203/Experiment/Low%20Speed%20Flow%20Past%20a%20High%20Aspect%20Ratio%20Wing/Notes.docx)
+- **Miscellaneous**
+  - Numerical Solution to Lifting Line Equation: [MATLAB live script](Year%203/AERO60001%20-%20Aerodynamics%203/Miscellaneous/Numerical%20Solution%20to%20Lifting%20Line%20Equation.mlx)
 
 ### AERO60007 — Control Systems
 - **Study Notes:** [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Control%20Systems.pdf)

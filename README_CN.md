@@ -161,6 +161,13 @@
 
 ### AERO60001 — 空气动力学 3
 - **学习笔记：** [手写笔记](Year%203/AERO60001%20-%20Aerodynamics%203/Aerodynamics%203.pdf)
+- **习题**
+  - 不可压缩流体： [手写解答](Year%203/AERO60001%20-%20Aerodynamics%203/Tutorial/Incompressible%20Flow)
+  - 可压缩流体： [手写解答](Year%203/AERO60001%20-%20Aerodynamics%203/Tutorial/Compressible%20Flow)
+- **实验**
+  - 绕过高展弦比机翼的低速气流: [笔记](Year%203/AERO60001%20-%20Aerodynamics%203/Experiment/Low%20Speed%20Flow%20Past%20a%20High%20Aspect%20Ratio%20Wing/Notes.docx)
+- **杂项**
+  - 升力线理论的数值解: [MATLAB 实时脚本](Year%203/AERO60001%20-%20Aerodynamics%203/Miscellaneous/Numerical%20Solution%20to%20Lifting%20Line%20Equation.mlx)
 
 ### AERO60007 — 控制系统
 - **学习笔记：** [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Control%20Systems.pdf)
