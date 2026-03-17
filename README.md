@@ -186,7 +186,7 @@ Will update before September 2026.
 
 ### Year 1
 - **AERO40002 — Introduction to Aerospace**  
-  Suggested reading: awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology.
+  Suggested read awesome [Intro to Aerospace study notes](https://www.aerostudents.com/) compiled by students from Delft University of Technology.
 - **AERO40003 — Computing and Numerical Methods 1**  
   [W3Schools](https://www.w3schools.com/) provides detailed and systematic tutorials for MATLAB and Python.
 - **AERO40004 — Engineering Practice 1**  
