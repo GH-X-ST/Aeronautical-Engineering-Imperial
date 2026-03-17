@@ -159,7 +159,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Incompressible Flow: [Handwritten solutions](Year%203/AERO60001%20-%20Aerodynamics%203/Tutorial/Incompressible%20Flow)
   - Compressible Flow: [Handwritten solutions](Year%203/AERO60001%20-%20Aerodynamics%203/Tutorial/Compressible%20Flow)
 - **Experiments**
-  - Measurement of the Pressure Distribution on a Circular Cylinder: [Notes](Year%203/AERO60001%20-%20Aerodynamics%203/Experiment/Low%20Speed%20Flow%20Past%20a%20High%20Aspect%20Ratio%20Wing/Notes.docx)
+  - Low Speed Flow Past a High Aspect Ratio Wing: [Notes](Year%203/AERO60001%20-%20Aerodynamics%203/Experiment/Low%20Speed%20Flow%20Past%20a%20High%20Aspect%20Ratio%20Wing/Notes.docx)
 - **Miscellaneous**
   - Numerical Solution to Lifting Line Equation: [MATLAB live script](Year%203/AERO60001%20-%20Aerodynamics%203/Miscellaneous/Numerical%20Solution%20to%20Lifting%20Line%20Equation.mlx)
 
