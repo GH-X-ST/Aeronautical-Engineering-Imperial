@@ -196,7 +196,7 @@
 
 ### 大一
 - **AERO40002 — 航空航天概论**  
-  推荐阅读：由代尔夫特理工大学学生整理的 [Intro to Aerospace study notes](https://www.aerostudents.com/)，非常之牛逼。
+  推荐阅读由代尔夫特理工大学学生整理的 [Intro to Aerospace study notes](https://www.aerostudents.com/)，非常之牛逼。
 
 - **AERO40003 — 计算机与数值方法 1**  
   [菜鸟教程](https://www.runoob.com/) 给出了系统且免费的 MATLAB 与 Python 教程。
