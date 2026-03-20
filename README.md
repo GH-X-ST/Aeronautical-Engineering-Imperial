@@ -169,10 +169,10 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 ### AERO60008 — Structures 3
 - **Study Notes:** [Handwritten notes](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
 
-### AERO70015 — Mathematics 3 (Elective)
+### AERO70015 — Mathematics 3 *(Elective)*
 - **Study Notes:** [Handwritten notes](Year%203/AERO70015%20-%20Mathematics%203/Mathematics%203.pdf)
 
-### AERO70038 — Introduction to Vertical Flight (Elective)
+### AERO70038 — Introduction to Vertical Flight *(Elective)*
 - **Study Notes:** [Handwritten notes](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight/Introduction%20to%20Vertical%20Flight.pdf)
 
 ---
