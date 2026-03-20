@@ -175,10 +175,10 @@
 ### AERO60008 — 结构学 3
 - **学习笔记：** [手写笔记](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
 
-### AERO70015 — 数学 3 *(选修)*
+### AERO70015 — 数学 3（选修）
 - **学习笔记：** [手写笔记](Year%203/AERO70015%20-%20Mathematics%203/Mathematics%203.pdf)
 
-### AERO70038 — 垂直飞行概论 *(选修)*
+### AERO70038 — 垂直飞行概论（选修）
 - **学习笔记：** [手写笔记](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight/Introduction%20to%20Vertical%20Flight.pdf)
 
 ---
