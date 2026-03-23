@@ -174,6 +174,9 @@
 
 ### AERO60008 — 结构学 3
 - **学习笔记：** [手写笔记](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
+- **习题**
+  - 航空航天薄壁结构: [手写解答](Year%203/AERO60008%20-%20Structures%203/Tutorial/Thin-Walled%20Aerospace%20Structures)
+  - 板的弯曲与屈曲: [手写解答](Year%203/AERO60008%20-%20Structures%203/Tutorial/Plate%20Bending%20and%20Buckling)
 
 ### AERO70015 — 数学 3（选修）
 - **学习笔记：** [手写笔记](Year%203/AERO70015%20-%20Mathematics%203/Mathematics%203.pdf)
