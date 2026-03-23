@@ -168,6 +168,9 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 
 ### AERO60008 — Structures 3
 - **Study Notes:** [Handwritten notes](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
+- **Tutorial**
+  - Thin-Walled Aerospace Structures: [Handwritten solutions](Year%203/AERO60008%20-%20Structures%203/Tutorial/Thin-Walled%20Aerospace%20Structures)
+  - Plate Bending and Buckling: [Handwritten solutions](Year%203/AERO60008%20-%20Structures%203/Tutorial/Plate%20Bending%20and%20Buckling)
 
 ### AERO70015 — Mathematics 3 (Elective)
 - **Study Notes:** [Handwritten notes](Year%203/AERO70015%20-%20Mathematics%203/Mathematics%203.pdf)
