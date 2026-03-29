@@ -178,6 +178,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 
 ### AERO70038 — Introduction to Vertical Flight (Elective)
 - **Study Notes:** [Handwritten notes](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight/Introduction%20to%20Vertical%20Flight.pdf)
+- **Tutorial:** [Handwritten solutions](Year%203/AERO70038%20-%20Introduction%20to%20Vertical%20Flight/Tutorial)
 
 ---
 
