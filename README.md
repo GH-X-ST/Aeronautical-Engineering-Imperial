@@ -164,7 +164,9 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Numerical Solution to Lifting Line Equation: [MATLAB live script](Year%203/AERO60001%20-%20Aerodynamics%203/Miscellaneous/Numerical%20Solution%20to%20Lifting%20Line%20Equation.mlx)
 
 ### AERO60007 — Control Systems
-- **Study Notes:** [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Control%20Systems.pdf)
+- **Study Notes**
+  - State Space Methods: [Supplementary handwritten notes on the lecture notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Method.pdf)
+  - Frequency-Domain Analysis: [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
 
 ### AERO60008 — Structures 3
 - **Study Notes:** [Handwritten notes](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)

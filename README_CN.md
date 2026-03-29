@@ -170,7 +170,9 @@
   - 升力线理论的数值解: [MATLAB 实时脚本](Year%203/AERO60001%20-%20Aerodynamics%203/Miscellaneous/Numerical%20Solution%20to%20Lifting%20Line%20Equation.mlx)
 
 ### AERO60007 — 控制系统
-- **学习笔记：** [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Control%20Systems.pdf)
+- **学习笔记**
+  - 状态空间法: [讲义补充手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Method.pdf)
+  - 频域分析: [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
 
 ### AERO60008 — 结构学 3
 - **学习笔记：** [手写笔记](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
