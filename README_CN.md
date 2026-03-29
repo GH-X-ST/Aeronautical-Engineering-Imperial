@@ -174,7 +174,7 @@
   - 状态空间法: [讲义补充手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Method.pdf)
   - 频域分析: [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
 - **杂项**
-  - 状态空间法: [与讲义配套的 MATLAB 与 Simulink 示例](Year%203/AERO60007%20-%20Control%20Systems/Miscellaneous/State%20Space%20Method)
+  - 状态空间法: [与讲义配套的 MATLAB 与 Simulink 示例](Year%203/AERO60007%20-%20Control%20Systems/Miscellaneous/State%20Space%20Methods)
 
 ### AERO60008 — 结构学 3
 - **学习笔记：** [手写笔记](Year%203/AERO60008%20-%20Structures%203/Structures%203.pdf)
