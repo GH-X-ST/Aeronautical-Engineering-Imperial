@@ -171,7 +171,7 @@
 
 ### AERO60007 — 控制系统
 - **学习笔记**
-  - 状态空间法: [讲义补充手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Method.pdf)
+  - 状态空间法: [讲义补充手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Methods.pdf)
   - 频域分析: [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
 - **杂项**
   - 状态空间法: [与讲义配套的 MATLAB 与 Simulink 示例](Year%203/AERO60007%20-%20Control%20Systems/Miscellaneous/State%20Space%20Methods)
