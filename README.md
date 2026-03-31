@@ -165,7 +165,7 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 
 ### AERO60007 — Control Systems
 - **Study Notes**
-  - State Space Methods: [Supplementary handwritten notes on the lecture notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Method.pdf)
+  - State Space Methods: [Supplementary handwritten notes on the lecture notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Methods.pdf)
   - Frequency-Domain Analysis: [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
 - **Miscellaneous**
   - State Space Methods: [MATLAB and Simulink worked examples on the lecture notes](Year%203/AERO60007%20-%20Control%20Systems/Miscellaneous/State%20Space%20Methods)
