@@ -189,7 +189,9 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 ---
 
 ## Year 4 (2025–2026)
-Will update before September 2026.
+
+### AERO70026 - Fundamentals of Scientific Machine Learning
+- **Cheat sheet:** [A4 cheat sheet](Year%204/AERO70026%20-%20Fundamentals%20of%20Scientific%20Machine%20Learning/Fundamentals%20of%20Scientific%20Machine%20Learning.pdf)
 
 ---
 
