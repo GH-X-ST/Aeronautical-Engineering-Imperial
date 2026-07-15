@@ -167,6 +167,8 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 - **Study Notes**
   - State Space Methods: [Supplementary handwritten notes on the lecture notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Methods.pdf)
   - Frequency-Domain Analysis: [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
+- **Experiments**
+  - Drone Lab: [Handwritten notes](Year%203/AERO60007%20-%20Control%20Systems/Experiment/Drone%20Lab/Drone%20Lab.pdf)
 - **Miscellaneous**
   - State Space Methods: [MATLAB and Simulink worked examples on the lecture notes](Year%203/AERO60007%20-%20Control%20Systems/Miscellaneous/State%20Space%20Methods)
 
