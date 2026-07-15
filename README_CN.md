@@ -173,6 +173,8 @@
 - **学习笔记**
   - 状态空间法: [讲义补充手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/State%20Space%20Methods.pdf)
   - 频域分析: [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes/Frequency-Domain%20Analysis.pdf)
+- **实验**
+  - 无人机控制: [手写笔记](Year%203/AERO60007%20-%20Control%20Systems/Experiment/Drone%20Lab/Drone%20Lab.pdf)
 - **杂项**
   - 状态空间法: [与讲义配套的 MATLAB 与 Simulink 示例](Year%203/AERO60007%20-%20Control%20Systems/Miscellaneous/State%20Space%20Methods)
 
