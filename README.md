@@ -193,6 +193,14 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 ### AERO70026 - Fundamentals of Scientific Machine Learning
 - **Cheat sheet:** [A4 cheat sheet](Year%204/AERO70026%20-%20Fundamentals%20of%20Scientific%20Machine%20Learning/Fundamentals%20of%20Scientific%20Machine%20Learning.pdf)
 
+### AERO70036 — Systems Engineering for Unmanned Aerial Vehicles
+- **Study Notes**
+  - Part 1: [Handwritten notes](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Study%20Notes/Part%201/Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles.pdf)
+  - Part 2: Since Part 2 of the module substantially overlaps with the [Year 2 Flight Dynamics and Control notes](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf), [Year 3 Control Systems notes](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes), and [Year 3 Drone Lab notes](Year%203/AERO60007%20-%20Control%20Systems/Experiment/Drone%20Lab/Drone%20Lab.pdf), only the Part 1 study notes have been compiled for this update.
+- **Tutorial**
+  - Part 1: [Handwritten solutions](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%201/Tutorial.pdf)
+  - Part 2: [Handwritten solutions](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%202)
+
 ---
 
 ## Modules covered by external references
