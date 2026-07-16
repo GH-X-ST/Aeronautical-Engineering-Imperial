@@ -215,6 +215,10 @@
   - 第一部分：[手写解答](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%201)
   - 第二部分：[手写解答](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%202)
 
+### AERO70040 — 设计优化
+- **学习笔记：** [MATLAB 笔记](Year%204/AERO70040%20-%20Design%20Optimisation/Study%20Notes)
+- **习题：** [MATLAB 解答](Year%204/AERO70040%20-%20Design%20Optimisation/Tutorial)
+
 ---
 
 <a id="modules-covered-by-external-references"></a>

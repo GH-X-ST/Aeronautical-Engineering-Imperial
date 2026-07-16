@@ -207,6 +207,10 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Part 1: [Handwritten solutions](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%201)
   - Part 2: [Handwritten solutions](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%202)
 
+### AERO70040 — Design Optimisation
+- **Study Notes:** [Notes in MATLAB](Year%204/AERO70040%20-%20Design%20Optimisation/Study%20Notes)
+- **Tutorial:** [Solution in MATLAB](Year%204/AERO70040%20-%20Design%20Optimisation/Tutorial)
+
 ---
 
 ## Modules covered by external references
