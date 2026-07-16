@@ -211,6 +211,9 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 - **Study Notes:** [Notes in MATLAB](Year%204/AERO70040%20-%20Design%20Optimisation/Study%20Notes)
 - **Tutorial:** [Solution in MATLAB](Year%204/AERO70040%20-%20Design%20Optimisation/Tutorial)
 
+### ELEC70098 — Optimisation
+- **Study Notes:** [Notes](Year%204/ELEC70098%20-%20Optimisation/Optimisation.pdf)
+
 ---
 
 ## Modules covered by external references

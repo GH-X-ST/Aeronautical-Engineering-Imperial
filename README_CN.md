@@ -219,6 +219,9 @@
 - **学习笔记：** [MATLAB 笔记](Year%204/AERO70040%20-%20Design%20Optimisation/Study%20Notes)
 - **习题：** [MATLAB 解答](Year%204/AERO70040%20-%20Design%20Optimisation/Tutorial)
 
+### ELEC70098 — 最优化
+- **学习笔记：** [笔记](Year%204/ELEC70098%20-%20Optimisation/Optimisation.pdf)
+
 ---
 
 <a id="modules-covered-by-external-references"></a>
