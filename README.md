@@ -201,6 +201,12 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
   - Part 1: [Handwritten solutions](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%201/Tutorial.pdf)
   - Part 2: [Handwritten solutions](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%202)
 
+### AERO70039 — Advanced Control
+- **Study Notes:** [Handwritten notes](Year%204/AERO70039%20-%20Advanced%20Control/Advanced%20Control.pdf)
+- **Tutorial**
+  - Part 1: [Handwritten solutions](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%201)
+  - Part 2: [Handwritten solutions](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%202)
+
 ---
 
 ## Modules covered by external references

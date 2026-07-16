@@ -209,6 +209,12 @@
   - 第一部分：[手写解答](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%201/Tutorial.pdf)
   - 第二部分：[手写解答](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%202)
 
+### AERO70039 — 高级控制
+- **学习笔记：** [手写笔记](Year%204/AERO70039%20-%20Advanced%20Control/Advanced%20Control.pdf)
+- **习题**
+  - 第一部分：[手写解答](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%201)
+  - 第二部分：[手写解答](Year%204/AERO70039%20-%20Advanced%20Control/Tutorial/Part%202)
+
 ---
 
 <a id="modules-covered-by-external-references"></a>
