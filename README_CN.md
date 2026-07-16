@@ -258,6 +258,10 @@
 - **AERO60007 — 控制系统**  
   去读读《反馈系统：多学科视角 *(Feedback Systems: An Introduction for Scientists and Engineers)*》吧。
 
+### 大四
+- **AERO70001 — 航空工程硕士个人项目**  
+  欢迎看看我的毕业设计 [风之谷](https://github.com/GH-X-ST/Nausicaa)：*不确定室内上升气流条件下小型固定翼滑翔机的生存性引导仿真到实飞迁移*。
+
 ---
 
 ## 数星星

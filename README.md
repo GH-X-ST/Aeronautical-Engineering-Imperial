@@ -242,6 +242,10 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 - **AERO60007 — Control Systems**  
   You can read *Feedback Systems: An Introduction for Scientists and Engineers*.
 
+### Year 4
+- **AERO70001 — MEng Aeronautics Individual Project**  
+  Explore my project [Nausicaa](https://github.com/GH-X-ST/Nausicaa): *Viability-Guided Sim-to-Real Transfer for a Small Fixed-Wing Glider in Uncertain Indoor Updrafts*.
+
 ---
 
 ## Stargazers Over Time
