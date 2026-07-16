@@ -201,6 +201,14 @@
 ### AERO70026 — 科学机器学习基础
 - **速查表:** [A4 考试速查表](Year%204/AERO70026%20-%20Fundamentals%20of%20Scientific%20Machine%20Learning/Fundamentals%20of%20Scientific%20Machine%20Learning.pdf)
 
+### AERO70036 — 无人飞行器系统工程
+- **学习笔记**
+  - 第一部分：[笔记](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Study%20Notes/Part%201/Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles.pdf)
+  - 第二部分：因内容与[大二飞行动力学](Year%202/AERO50002%20-%20Flight%20Dynamics%20and%20Control/Flight%20Dynamics%20and%20Control.pdf)、[大三控制系统](Year%203/AERO60007%20-%20Control%20Systems/Study%20Notes)，以及[大三无人机控制实验笔记](Year%203/AERO60007%20-%20Control%20Systems/Experiment/Drone%20Lab/Drone%20Lab.pdf)大量重合，本次仅整理第一部分的学习笔记
+- **习题**
+  - 第一部分：[手写解答](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%201/Tutorial.pdf)
+  - 第二部分：[手写解答](Year%204/AERO70036%20-%20Systems%20Engineering%20for%20Unmanned%20Aerial%20Vehicles/Tutorial/Part%202)
+
 ---
 
 <a id="modules-covered-by-external-references"></a>
