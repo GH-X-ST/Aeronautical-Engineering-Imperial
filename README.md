@@ -245,9 +245,3 @@ I‘d be eternally, infinitely, cosmically grateful if anyone could contribute o
 ### Year 4
 - **AERO70001 — MEng Aeronautics Individual Project**  
   Explore my project [Nausicaa](https://github.com/GH-X-ST/Nausicaa): *Viability-Guided Sim-to-Real Transfer for a Small Fixed-Wing Glider in Uncertain Indoor Updrafts*.
-
----
-
-## Stargazers Over Time
-[![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%230000cd)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-light-mode-only)
-[![Stargazers over time dark](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23ffffff&line=%23ffff00)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-dark-mode-only)
