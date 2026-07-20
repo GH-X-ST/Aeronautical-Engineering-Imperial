@@ -261,9 +261,3 @@
 ### 大四
 - **AERO70001 — 航空工程硕士个人项目**  
   欢迎看看我的毕业设计 [风之谷](https://github.com/GH-X-ST/Nausicaa)：*不确定室内上升气流条件下小型固定翼滑翔机的生存性引导仿真到实飞迁移*。
-
----
-
-## 数星星
-[![Stargazers over time light](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23232333&line=%230000cd)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-light-mode-only)
-[![Stargazers over time dark](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial.svg?background=%2300000000&axis=%23ffffff&line=%23ffff00)](https://starchart.cc/GH-X-ST/Aeronautical-Engineering-Imperial#gh-dark-mode-only)
