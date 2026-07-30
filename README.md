@@ -2,9 +2,9 @@
 --><a href="README_CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-中文-0000cd?style=for-the-badge&labelColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-中文-0000CD?style=for-the-badge&labelColor=FFFFFF"><img src="https://img.shields.io/badge/-中文-0000CD?style=for-the-badge&labelColor=FFFFFF" alt="中文 README"></picture></a></p>
 
 <p align="center">
-  <sub>Personal study notes and tutorial solutions only. No assessed or examination materials are included.</sub><br>
-  <sub>Experimental content (if any) is obscured, only personal understanding is shared.</sub><br>
-  <sub>Contributions from others will be <a href="Contributing.md">credited</a> in <em>italics</em> in this README.
+  <sub>Personal study notes and tutorial solutions only, no assessed or examination materials are included </sub><br>
+  <sub>Experimental content (if any) is obscured, only personal understanding is shared </sub><br>
+  <sub>Contributions from others will be <a href="Contributing.md">credited</a> in <em>italics</em> in this README
 </p>
  
 ![Cover light](Cover.jpg#gh-light-mode-only)
