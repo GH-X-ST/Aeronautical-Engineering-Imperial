@@ -199,7 +199,7 @@
 ## 硕士 (2025–2026)
 
 ### AERO70026 — 科学机器学习基础
-- **速查表:** [A4 考试速查表](Year%204/AERO70026%20-%20Fundamentals%20of%20Scientific%20Machine%20Learning/Fundamentals%20of%20Scientific%20Machine%20Learning.pdf)
+- **速查表：** [A4 考试速查表](Year%204/AERO70026%20-%20Fundamentals%20of%20Scientific%20Machine%20Learning/Fundamentals%20of%20Scientific%20Machine%20Learning.pdf)
 
 ### AERO70036 — 无人飞行器系统工程
 - **学习笔记**
