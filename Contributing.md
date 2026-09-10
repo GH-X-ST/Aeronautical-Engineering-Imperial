@@ -45,7 +45,7 @@ Contributors will be acknowledged here once contributions are made.
 - **AERO40003 — Computing and Numerical Methods 1**
   - Numerical Methods
 
-### [Year 3](Year%203/) & Year 4
+### [Year 3](Year%203/) & [Year 4](Year%204/)
 - **AERO60007 — Control Systems**
   - State Space Methods
 
